@@ -1,36 +1,49 @@
 [Event "Casual Rapid"]
-[Site "Conflans Ste Honorine FRA]
-[Date "1991.??.??"]
+[Site "?"]
+[Date "????.??.??"]
 [Round "?"]
-[White "Valentin, Alain"]
-[Black "Raoult, Bruno"]
+[White "?"]
+[Black "?"]
 [Result "0-1"]
-[ECO "D35"]
-[WhiteElo "1660"]
-[BlackElo "1730"]
-[PlyCount "32"]
-[EventDate "1991.??.??"]
 
-1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. cxd5 exd5 5. Nc3 Be7 6. Bf4 O-O 7. Qc2 Nc6 8.
-e3 Bb4 9. Bd3 Re8 10. O-O Bxc3 11. Qxc3 Ne4 12. Qc2 Bf5 13. Ne5 Nb4 14. Qd1
-Nxd3 15. Qxd3 Ng3 16. Qc3 Ne2+ 0-1
+0-1
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "0-1"]
+[ECO "E00"]
+[ECOT "E10"]
+[Opening "Queen's pawn game"]
+[OpeningT "Queen's pawn game"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. cxd5 exd5 5. Nc3 Be7 6. Bf4 O-O 7. Qc2 Nc6 8. e3 Bb4 9. Bd3 Re8 10. O-O Bxc3 11. Qxc3 Ne4 12. Qc2 Bf5 13. Ne5 Nb4 14. Qd1 Nxd3 15. Qxd3 Ng3 16. Qc3 Ne2+ 0-1
 
 [Event "Casual Rapid"]
-[Site "Conflans Ste Honorine FRA]
-[Date "1991.??.??"]
+[Site "?"]
+[Date "????.??.??"]
 [Round "?"]
-[White "Raoult, Bruno"]
-[Black "Valentin, Alain"]
+[White "?"]
+[Black "?"]
 [Result "0-1"]
-[ECO "B13"]
-[WhiteElo "1730"]
-[BlackElo "1660"]
-[PlyCount "66"]
-[EventDate "1991.??.??"]
 
-1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Bf5 6. Bg5 e6 7. c5 Nc6 8. Nf3
-h6 9. Bh4 Be7 10. a3 O-O 11. Be2 Nd7 12. Bxe7 Qxe7 13. O-O e5 14. Nxd5 Qd8 15.
-b4 Nxd4 16. Nxd4 exd4 17. Qxd4 Kh8 18. Rfd1 Re8 19. Bf3 Ne5 20. Bh5 Qg5 21. Nf4
-Rad8 22. Qe3 Bg4 23. Rxd8 Rxd8 24. Bxg4 Nxg4 25. Qg3 Qf6 26. Re1 Rd4 27. Qxg4
-Rxf4 28. Qc8+ Kh7 29. Qxb7 Rxf2 30. c6 Qb2 31. Qxa7 Rxg2+ 32. Kf1 Rxh2 33. Qg1
-Qf6+ 0-1
+0-1
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "0-1"]
+[ECO "B12"]
+[ECOT "B13"]
+[Opening "Caro-Kann"]
+[OpeningT "Caro-Kann"]
+[VariationT "Panov-Botvinnik attack"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Bf5 6. Bg5 e6 7. c5 Nc6 8. Nf3 h6 9. Bh4 Be7 10. a3 O-O 11. Be2 Nd7 12. Bxe7 Qxe7 13. O-O e5 14. Nxd5 Qd8 15. b4 Nxd4 16. Nxd4 exd4 17. Qxd4 Kh8 18. Rfd1 Re8 19. Bf3 Ne5 20. Bh5 Qg5 21. Nf4 Rad8 22. Qe3 Bg4 23. Rxd8 Rxd8 24. Bxg4 Nxg4 25. Qg3 Qf6 26. Re1 Rd4 27. Qxg4 Rxf4 28. Qc8+ Kh7 29. Qxb7 Rxf2 30. c6 Qb2 31. Qxa7 Rxg2+ 32. Kf1 Rxh2 33. Qg1 Qf6+ 0-1
+

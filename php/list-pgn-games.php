@@ -54,6 +54,8 @@ function displayGamesList($pgnfile)
   printf("   <th>Elo</th>\n");
   printf("   <th class='left2x'>Result</th>\n");
   printf("   <th>Moves</th>\n");
+  printf("   <th class='left2x'>ECO</th>\n");
+  printf("   <th>Opening</th>\n");
   printf("   <th class='left2x'>Event</th>\n");
   printf("   <th>Round</th>\n");
   printf("   <th>Place</th>\n");
@@ -80,7 +82,28 @@ function displayGamesList($pgnfile)
       printf("   <td class='elo'>?</td>\n");
     }
     printf("   <td class='result'>%s</td>\n", htmlspecialchars($game['result']));
-    printf("   <td class='plycount'>%d</td>\n", (htmlspecialchars($game['plycount'])+1)/2);
+    printf("   <td class='plycount'>%d</td>\n", ($game['plycount'] + 1) / 2);
+    //echo "<pre>";
+    //print_r($game);
+    //echo "</pre>";
+    printf("   <td class='eco'>%s</td>\n",
+           isset($game['metadata']['ecot']) ? $game['metadata']['ecot'] :
+           (isset($game['eco']) ? $game['eco'] : "?"));
+
+    printf("   <td class='opening'>");
+    if (isset($game['metadata']['openingt'])) {
+        printf("%s", $game['metadata']['openingt']);
+        if (isset($game['metadata']['variationt']))
+            printf(", %s", $game['metadata']['variationt']);
+    } else if (isset($game['metadata']['opening'])) {
+        printf("%s", $game['metadata']['opening']);
+        if (isset($game['metadata']['variation']))
+            printf(", %s", $game['metadata']['variation']);
+    } else {
+        printf("?");
+    }
+    printf("</td>\n");
+
     /* printf("  <td class='url'>%s?file=%s&game=%d</td>\n",
            "showgame.phtml",
            htmlspecialchars($pgnfile),

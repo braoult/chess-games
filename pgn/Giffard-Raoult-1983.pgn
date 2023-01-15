@@ -5,89 +5,14 @@
 [White "Giffard, Nicolas"]
 [Black "Raoult, Bruno"]
 [Result "0-1"]
-[ECO "C52"]
-[WhiteElo "2345"]
 [BlackElo "1540"]
-[PlyCount "102"]
+[ECO "C44"]
+[ECOT "C52"]
 [EventDate "1983.??.??"]
+[Opening "King's pawn game"]
+[OpeningT "Evans gambit"]
+[PlyCount "102"]
+[WhiteElo "2345"]
 
-1. e4 e5
-2. Nf3 Nc6
-3. Bc4 Bc5
-4. b4 Bxb4
-5. c3 Ba5
-6. d4 exd4
-7. Qb3 $6 { to control a2-f7 and prevent o-o } (7. O-O Bb6 (7... dxc3 $4  8.Qb3 $1))
-7... Qe7
-8. O-O d6
-9. e5 $6
-9... Nxe5
-10. Nxe5
-10... Qxe5 { 10... dxe5??, 11.Qa4+ and Qxa5}
-11. cxd4
-11... Qf5 {to protect a5}
-12. Bxf7+ $1 {gets back a pawn}
-12... Qxf7
-13. Qb5+ c6 $6 { Idea: Be6, then Bd5}
-14. Qxa5 Nf6
-15. Re1+
-15... Be6 $17 {fully controls d5 }
-16. Ba3 Qd7
-17. Qb4 Rd8
-18. Nd2
-18... O-O {Eventually!}
-19. Nb3 $6 { better was 19.Nf3 }
-19... Bd5 $1 { first menaces on o-o: Ng4 ou Qg4}
-20. f3 { e3 and g3 becomes weaker }
-20... Qf7 $1 {new menaces on  o-o}
-21. Re2
-21... Nh5 $1 { Idea: Nf4 or Qg6, which directly attacks white K}
-22. Bc1 Qg6
-23. Kh1 $2
-23... Rxf3 $1
-24. Bd2 (24.gxf3?? Bxf3#)
-24... Rdf8
-25. Kg1
-25... Nf4 $2
-(25... Qd3 $3 {Wins the game}
- 26. Ree1
-   (26. Nc1 Rf1#)
-   (26. Rae1 26... Qxe2 $1 { control of f1 }
-    27.Rxe2 Rf1#)
-   (26. gxf3 26... Qxf3 $1 {followed by Qf1# ou Qg2#})
- 26... Rf2
- { with the idea 27... Rxg2+ 28.Kh1 Rg3# }
- 27. h3 (27. Kh1 Rf1+)
- 27...  Rxg2+
- 28. Kh1 Ng3#)
-26. Bxf4 R3xf4
-27. Qd2 Qf6
-28. h3 Rf1+
-29. Rxf1 Qxf1+
-30. Kh2 Qf4+
-31. Qxf4 Rxf4
-32. Re7 Bxb3
-33. axb3 Rxd4
-34. Rxb7
-34... a5 $1
-35. Rb6 c5
-36. Ra6
-36... Rd3 $1 {Keeps the c5-d6 chain.   36... Rb4?, 37.Rxd6  }
-37. Kg1 Kf7
-38. Kf2
-38... Ke6 {menace: Rxb3}
-39. Ra7
-39... Kf6 $1 { K is approaching center with no precipitation}
-40.  Ra6
-40... Ke5 $1
-41. Ra7 41... g6 $1 { Wins 2 tempos before the white rooks comes back}
-42. Rxh7 Rxb3
-43. Rg7 a4
-44. Rxg6 a3
-45. Rg8 a2
-46. Ra8 Rb2+
-47. Kg3 c4
-48. Kf3 c3
-49. Ke3 d5
-50. h4 d4+
-51. Kd3 Rd2+ 0-1
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 exd4 7. Qb3 $6 { to control a2-f7 and prevent o-o } ( 7. O-O Bb6 ( 7... dxc3 $4 8. Qb3 $1 ) ) 7... Qe7 8. O-O d6 9. e5 $6 Nxe5 10. Nxe5 Qxe5 { 10... dxe5??, 11.Qa4+ and Qxa5 } 11. cxd4 Qf5 { to protect a5 } 12. Bxf7+ $1 { gets back a pawn } 12... Qxf7 13. Qb5+ c6 $6 { Idea: Be6, then Bd5 } 14. Qxa5 Nf6 15. Re1+ Be6 $17 { fully controls d5 } 16. Ba3 Qd7 17. Qb4 Rd8 18. Nd2 O-O { Eventually! } 19. Nb3 $6 { better was 19.Nf3 } 19... Bd5 $1 { first menaces on o-o: Ng4 ou Qg4 } 20. f3 { e3 and g3 becomes weaker } 20... Qf7 $1 { new menaces on  o-o } 21. Re2 Nh5 $1 { Idea: Nf4 or Qg6, which directly attacks white K } 22. Bc1 Qg6 23. Kh1 $2 Rxf3 $1 24. Bd2 ( 24. gxf3 $4 Bxf3+ ) 24... Rdf8 25. Kg1 Nf4 $2 ( 25... Qd3 $3 { Wins the game } 26. Ree1 ( 26. Nc1 Rf1# ) ( 26. Rae1 Qxe2 $1 { control of f1 } 27. Rxe2 Rf1# ) ( 26. gxf3 Qxf3 $1 { followed by Qf1# ou Qg2# } ) 26... Rf2 { with the idea 27... Rxg2+ 28.Kh1 Rg3# } 27. h3 ( 27. Kh1 Rf1+ ) 27... Rxg2+ 28. Kh1 Ng3# ) 26. Bxf4 R3xf4 27. Qd2 Qf6 28. h3 Rf1+ 29. Rxf1 Qxf1+ 30. Kh2 Qf4+ 31. Qxf4 Rxf4 32. Re7 Bxb3 33. axb3 Rxd4 34. Rxb7 a5 $1 35. Rb6 c5 36. Ra6 Rd3 $1 { Keeps the c5-d6 chain.   36... Rb4?, 37.Rxd6 } 37. Kg1 Kf7 38. Kf2 Ke6 { menace: Rxb3 } 39. Ra7 Kf6 $1 { K is approaching center with no precipitation } 40. Ra6 Ke5 $1 41. Ra7 g6 $1 { Wins 2 tempos before the white rooks comes back } 42. Rxh7 Rxb3 43. Rg7 a4 44. Rxg6 a3 45. Rg8 a2 46. Ra8 Rb2+ 47. Kg3 c4 48. Kf3 c3 49. Ke3 d5 50. h4 d4+ 51. Kd3 Rd2+ 0-1
+

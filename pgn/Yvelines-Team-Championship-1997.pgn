@@ -5,16 +5,17 @@
 [White "Boullier, Gilles"]
 [Black "Raoult, Bruno"]
 [Result "0-1"]
-[ECO "A31"]
-[WhiteElo "1710"]
 [BlackElo "1900"]
-[PlyCount "44"]
+[ECO "A56"]
+[ECOT "A31"]
 [EventDate "1997.??.??"]
+[Opening "Benoni"]
+[OpeningT "English"]
+[PlyCount "44"]
+[VariationT "symmetrical, Benoni formation"]
+[WhiteElo "1710"]
 
-1. d4 Nf6 2. c4 c5 3. Nf3 g6 4. Nc3 cxd4 5. Nxd4 Bg7 6. g3 Qc7 7. Qd3 a6 8. Nd5
-Nxd5 9. cxd5 Qa5+ 10. Bd2 Qxd5 11. Nf3 Qxd3 12. exd3 Bxb2 13. Rb1 Bg7 14. Bg2
-Nc6 15. O-O O-O 16. Be3 b5 17. Rfe1 Bb7 18. a4 Bc3 19. Rec1 b4 20. Rxc3 bxc3
-21. Rxb7 Rab8 22. Rxb8 Rxb8 0-1
+1. d4 Nf6 2. c4 c5 3. Nf3 g6 4. Nc3 cxd4 5. Nxd4 Bg7 6. g3 Qc7 7. Qd3 a6 8. Nd5 Nxd5 9. cxd5 Qa5+ 10. Bd2 Qxd5 11. Nf3 Qxd3 12. exd3 Bxb2 13. Rb1 Bg7 14. Bg2 Nc6 15. O-O O-O 16. Be3 b5 17. Rfe1 Bb7 18. a4 Bc3 19. Rec1 b4 20. Rxc3 bxc3 21. Rxb7 Rab8 22. Rxb8 Rxb8 0-1
 
 [Event "Yvelines Team Championship"]
 [Site "?"]
@@ -23,14 +24,14 @@ Nc6 15. O-O O-O 16. Be3 b5 17. Rfe1 Bb7 18. a4 Bc3 19. Rec1 b4 20. Rxc3 bxc3
 [White "Fortier, Christian"]
 [Black "Raoult, Bruno"]
 [Result "0-1"]
-[ECO "A31"]
-[WhiteElo "1499"]
 [BlackElo "1900"]
-[PlyCount "52"]
+[ECO "C44"]
+[ECOT "C44"]
 [EventDate "1997.??.??"]
+[Opening "King's pawn game"]
+[OpeningT "Inverted Hungarian"]
+[PlyCount "52"]
+[WhiteElo "1499"]
 
-1. e4 e5 2. Nf3 Nc6 3. Be2 Nf6 4. d3 Bc5 5. Bg5 h6 6. Bh4 d5 7. a3 dxe4 8. Bxf6
-Qxf6 9. dxe4 Bg4 10. c3 Be6 11. Nbd2 g5 12. Bb5 g4 13. Bxc6+ bxc6 14. O-O Rd8
-15. Qe2 gxf3 16. Nxf3 Bg4 17. h3 Bxf3 18. Qxf3 Qxf3 19. gxf3 Ke7 20. Rfe1 Rd2
-21. Rab1 Rxf2 22. Kh1 Rd2 23. Rbd1 Rxb2 24. Rf1 Rg8 25. a4 Rgg2 26. Rb1 Rh2#
-0-1
+1. e4 e5 2. Nf3 Nc6 3. Be2 Nf6 4. d3 Bc5 5. Bg5 h6 6. Bh4 d5 7. a3 dxe4 8. Bxf6 Qxf6 9. dxe4 Bg4 10. c3 Be6 11. Nbd2 g5 12. Bb5 g4 13. Bxc6+ bxc6 14. O-O Rd8 15. Qe2 gxf3 16. Nxf3 Bg4 17. h3 Bxf3 18. Qxf3 Qxf3 19. gxf3 Ke7 20. Rfe1 Rd2 21. Rab1 Rxf2 22. Kh1 Rd2 23. Rbd1 Rxb2 24. Rf1 Rg8 25. a4 Rgg2 26. Rb1 Rh2# 0-1
+
