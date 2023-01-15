@@ -1,0 +1,132 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+
+  <!-- You are really too curious!! -->
+
+  <head>
+    <title>My Chess Games</title>
+    <meta name="description" content="My Chess Games" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="author" content="Bruno Raoult" />
+    <meta name="keywords" content="Bruno, Raoult, chess" />
+
+    <!-- < link rel="preload" href="https://lichess1.org/assets/_KLITAX/font/lichess.woff2" as="font" type="font/woff2" crossorigin
+         < link rel="preload" href="https://lichess1.org/assets/_KLITAX/font/lichess.chess.woff2" as="font" type="font/woff2" crossorigin -->
+    <link rel="stylesheet" href="/css/chess-xhtml.css" />
+    <script type="text/javascript" src="/js/chess/pgnv.js"></script>
+    <link rel="stylesheet" href="/css/chess/br-pgnvjs.css" />
+    <!-- <link rel="stylesheet" href="theme.css" -->
+  </head>
+  <body>
+    <?php virtual("/cgi/insert-top-section.cgi?current=chess"); ?>
+    <div class='main'>
+      <div class="mainbody">
+        <?php
+          $path=trim($_SERVER['PATH_INFO'], "/");
+          $pgnfile = dirname($path);
+          $game = basename($path);
+          require_once "chess/list-pgn-games.php";
+          //$gameData=getGameString($pgnfile, $game);
+          $gameJson=getGameJson($pgnfile, $game);
+          $gameData=addslashes($gameJson['movesStr']);
+          /*
+             printf("<hr /><pre>");
+             print_r($gameData);
+             print_r($gameJson['moves']);
+             printf("</pre><hr />");
+           */
+        ?>
+        <!-- <?php
+               if (isset($gameJson['eco'])) {
+               printf("%s<br />", $gameJson['eco']);
+               }
+               ?>
+        -->
+        <div class="contents" >
+          <div class="gameinfo">
+            <div class="players">
+              <?php
+                printf("%s", htmlspecialchars($gameJson['white']));
+                if (isset($gameJson['metadata']['whiteelo'])) {
+                    printf(" (%s)\n",
+                           htmlspecialchars($gameJson['metadata']['whiteelo']));
+                }
+              ?>
+              vs
+              <?php
+                printf("%s", htmlspecialchars($gameJson['black']));
+                if (isset($gameJson['metadata']['blackelo'])) {
+                    printf(" (%s)\n",
+                           htmlspecialchars($gameJson['metadata']['blackelo']));
+                }
+              ?>
+              <!--
+              -
+              <?php
+                printf("%s (%d moves)",
+                       htmlspecialchars($gameJson['result']),
+                       (htmlspecialchars($gameJson['plycount'])+1)/2);
+              ?>
+              -->
+            </div>
+            <?php
+              printf("%s", htmlspecialchars($gameJson['event']));
+              if (isset($gameJson['round']) && $gameJson['round'] != "?") {
+                  printf(" (Round %s)", htmlspecialchars($gameJson['round']));
+              }
+            ?>
+            |
+            <?php
+              printf("%s", htmlspecialchars($gameJson['site']));
+            ?>
+            |
+            <?php
+              printf("%s", htmlspecialchars($gameJson['date']));
+            ?>
+          </div>
+        </div>
+        <div class='game' id='board'></div>
+        <script type="text/javascript">
+         var pgn="<?php printf("%s", $gameData); ?>";
+         var cfg = {
+             pgn: pgn,
+             //url: 'debug/test1.pgn',
+             position: 'start',
+             showCoords: false,
+             orientation: 'white',
+             theme: 'brown', /* default, blue, zeit, green, falken, beyer,
+                                sportverlag, informator, brown */
+             pieceStyle: 'wikipedia',
+             locale: 'en_symbol',
+             figurine: 'alpha', /* alpha/lichess */
+             timerTime: '1000',
+
+             width: '800px',
+             boardSize: '400px',
+             //movesWidth: '200px',
+
+             layout: 'left', /* left, right, top, bottom */
+             showFen: true,
+             coordsInner: true,
+             headers: true,
+             coordsFontSize: '',
+             colorMarker: 'any',
+             startPlay: '',
+             hideMovesBefore: true,
+             notation: 'short',
+             notationLayout: 'inline', // list or inline
+             showResult: true,
+         };
+         var board = PGNV.pgnView('board', cfg, );
+        </script>
+      </div> <!-- mainbody -->
+      <div style="clear: both;">&nbsp;</div>
+    </div> <!-- main -->
+
+    <div class="footer">
+      <?php virtual("/common/footer-xhtml-1.1.html"); ?>
+      <p>
+      </p>
+    </div>
+  </body>
+</html>

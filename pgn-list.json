@@ -1,0 +1,191 @@
+{
+  "lists": [
+    {
+      "name": "All games",
+      "pgn": [
+        {
+          "file": "orig-files/br.pgn",
+	  "text": "All PGN files below"
+        },
+        {
+          "file": "orig-files/conflans.pgn",
+	  "text": "Other unclassified games (may have some duplicates)"
+        }
+      ]
+    },
+    {
+      "name": "Regular Games (2 Hours/40 moves)",
+      "pgn": [
+        {
+          "file": "pgn/Brittany-Open-1982.pgn",
+          "text": "Brittany Open, 1982"
+        },
+        {
+          "file": "pgn/Giffard-Raoult-1983.pgn",
+          "text": "France Chess Champion <strong>IM Nicolas Giffard</strong> simul, 1983"
+        },
+        {
+          "file": "pgn/Brittany-Open-1983.pgn",
+          "text": "Brittany Open, 1983"
+        },
+        {
+          "file": "pgn/Brittany-Team-Championship-1983.pgn",
+          "text": "Brittany Team Championship, 1983"
+        },
+        {
+          "file": "pgn/Morbihan-Championship-1983.pgn",
+          "text": "Morbihan Championship, 1983"
+        },
+        {
+          "file": "pgn/Brittany-Open-1984.pgn",
+          "text": "Brittany Open, 1984"
+        },
+        {
+          "file": "pgn/Ile-De-France-Team-Championship-1984.pgn",
+          "text": "Ile De France Team Championship, 1984"
+        },
+        {
+          "file": "pgn/Other-Games-1984.pgn",
+          "text": "Other Games, 1984-1985"
+        },
+        {
+          "file": "pgn/Bagneux-Open-1991.pgn",
+          "text": "Bagneux International Open, 1991"
+        },
+        {
+          "file": "pgn/Club-Games-1990.pgn",
+          "text": "Club Games, 1990"
+        },
+        {
+          "file": "pgn/Other-Games-1990.pgn",
+          "text": "Other Games, 1990"
+        },
+        {
+          "file": "pgn/Club-Games-1991.pgn",
+          "text": "Club Games, 1991"
+        },
+        {
+          "file": "pgn/Yvelines-Team-Championship-1991.pgn",
+          "text": "Yvelines Team Championship, 1991"
+        },
+        {
+          "file": "pgn/Other-Games-1991.pgn",
+          "text": "Other Games, 1991"
+        },
+        {
+          "file": "pgn/Club-Games-1992.pgn",
+          "text": "Club Games, 1992"
+        },
+        {
+          "file": "pgn/Yvelines-Team-Championship-1992.pgn",
+          "text": "Yvelines Team Championship, 1992"
+        },
+        {
+          "file": "pgn/Cavalier-Team-Criterium-1992.pgn",
+          "text": "Cavalier Team Criterium, 1992"
+        },
+        {
+          "file": "pgn/Other-Games-1992.pgn",
+          "text": "Other Games, 1992"
+        },
+        {
+          "file": "pgn/Fou-Team-Criterium-1993.pgn",
+          "text": "Fou Team Criterium, 1993"
+        },
+        {
+          "file": "pgn/Yvelines-Team-Championship-1993.pgn",
+          "text": "Yvelines Team Championship, 1993"
+        },
+        {
+          "file": "pgn/Yvelines-Team-Championship-1994.pgn",
+          "text": "Yvelines Team Championship, 1994"
+        },
+        {
+          "file": "pgn/Club-Games-1994.pgn",
+          "text": "Club Games, 1994"
+        },
+        {
+          "file": "pgn/Yvelines-Team-Championship-1995.pgn",
+          "text": "Yvelines Team-Championship, 1995"
+        },
+        {
+          "file": "pgn/Yvelines-Team-Championship-1996.pgn",
+          "text": "Yvelines Team-Championship, 1996"
+        },
+        {
+          "file": "pgn/Yvelines-Championship-1997.pgn",
+          "text": "Yvelines Championship, 1997"
+        },
+        {
+          "file": "pgn/Yvelines-Team-Championship-1997.pgn",
+          "text": "Yvelines Team-Championship, 1997"
+        }
+      ]
+    },
+    {
+      "name": "Rapid Games (&lt;= 1 Hour/game)",
+      "pgn": [
+        {
+          "file": "pgn/Rapid-Games-1991.pgn",
+	  "text": "Rapid Games, 1991"
+        },
+        {
+          "file": "pgn/Herblay-Open-1992.pgn",
+	  "text": "Herblay Open, 1992"
+        },
+        {
+          "file": "pgn/Zup-A-L-oignon-Open-1992.pgn",
+	  "text": "Zup A l'Oignon Open, 1992"
+        },
+        {
+          "file": "pgn/Zup-A-L-oignon-Open-1994.pgn",
+	  "text": "Zup A l'Oignon Open, 1994"
+        },
+        {
+          "file": "pgn/Manhattan-Rapid-1997.pgn",
+	  "text": "Manhattan Chess Club Rapid tournament, 1997"
+        },
+        {
+          "file": "pgn/Rapid-Games-1994.pgn",
+	  "text": "Tokyo Chess Club Rapid Games, 1994"
+        },
+        {
+          "file": "pgn/Rapid-Games-1998.pgn",
+	  "text": "Tokyo Chess Club Rapid Games, 1998"
+        }
+      ]
+    },
+    {
+      "name": "Other Games",
+      "pgn": [
+        {
+          "file": "pgn/Club-608-1984.pgn",
+	  "text": "Phone games (Club 608 - Paris), 1984"
+        },
+        {
+          "file": "pgn/Correspondence-Games-1988.pgn",
+	  "text": "Correspondence Games, 1988"
+        },
+        {
+          "file": "pgn/Correspondence-Games-1992.pgn",
+	  "text": "Correspondence Games, 1992"
+        }
+      ]
+    },
+    {
+      "name": "Debug only",
+      "pgn": [
+        {
+          "file": "debug/test1.pgn",
+	  "text": "parse/display debug 1",
+          "debug": true
+        },
+        {
+          "file": "debug/test2.pgn",
+	  "text": "parse/display debug 2",
+          "debug": true
+        }
+      ]
+    }
+  ]
+}

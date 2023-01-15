@@ -1,0 +1,9 @@
+** My chess games
+My chess games (PGN), and (maybe) some tools to improve the PGN files or to help building web pages from them.
+** Licenses
+- Source code: GNU General Public License v3.0 or later (see: LICENSE-GPL-3.0-or-later.txt).
+
+  SPDX-License-Identifier: GPL-3.0-or-later <https://spdx.org/licenses/GPL-3.0-or-later.html>
+- Others (PGN, etc...): Creative Commons Attribution Share Alike 4.0 International (see: LICENSE-CC-BY-SA-4.0.txt).
+
+  SPDX-License-Identifier: Creative Commons Attribution Share Alike 4.0 International <https://spdx.org/licenses/CC-BY-SA-4.0.html>
