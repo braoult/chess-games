@@ -5,14 +5,17 @@
 [White "Raoult, Bruno"]
 [Black "Oki, Junji"]
 [Result "1-0"]
-[BlackElo "1380"]
-[ECO "B12"]
-[ECOT "B13"]
-[Opening "Caro-Kann"]
-[OpeningT "Caro-Kann"]
-[PlyCount "76"]
-[VariationT "Panov-Botvinnik attack"]
 [WhiteElo "1900"]
+[BlackElo "1380"]
+[ECO "B13"]
+[Opening "Caro-Kann: Panov-Botvinnik, 4...e6"]
+[PlyCount "76"]
 
-1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 e6 5. Nc3 Bb4 6. Qg4 g6 7. cxd5 Nf6 8. Qh4 Nxd5 9. Bb5+ Nc6 10. Bxc6+ bxc6 11. Qxd8+ Kxd8 12. Ne2 Ba6 13. Bd2 Rb8 14. a3 Bxc3 15. bxc3 Rb2 16. Rc1 Kd7 17. c4 Nf6 18. Bc3 Ra2 19. Ra1 Rb8 20. Rxa2 Rb1+ 21. Kd2 Rxh1 22. h3 Ne4+ 23. Ke3 Nxc3 24. Nxc3 Bxc4 25. Rb2 Re1+ 26. Kd2 Rg1 27. g3 Kc7 28. Ne4 Bf1 29. Rb1 Rh1 30. Ng5 Bg2 31. Rxh1 Bxh1 32. Nxf7 Bg2 33. h4 Be4 34. Ng5 Bd5 35. Nxh7 Kd6 36. Ke3 e5 37. dxe5+ Kxe5 38. f3 c5 1-0
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 e6 5. Nc3 Bb4 6. Qg4 g6 7. cxd5 Nf6 8.
+Qh4 Nxd5 9. Bb5+ Nc6 10. Bxc6+ bxc6 11. Qxd8+ Kxd8 12. Ne2 Ba6 13. Bd2 Rb8
+14. a3 Bxc3 15. bxc3 Rb2 16. Rc1 Kd7 17. c4 Nf6 18. Bc3 Ra2 19. Ra1 Rb8 20.
+Rxa2 Rb1+ 21. Kd2 Rxh1 22. h3 Ne4+ 23. Ke3 Nxc3 24. Nxc3 Bxc4 25. Rb2 Re1+
+26. Kd2 Rg1 27. g3 Kc7 28. Ne4 Bf1 29. Rb1 Rh1 30. Ng5 Bg2 31. Rxh1 Bxh1
+32. Nxf7 Bg2 33. h4 Be4 34. Ng5 Bd5 35. Nxh7 Kd6 36. Ke3 e5 37. dxe5+ Kxe5
+38. f3 c5 1-0
 

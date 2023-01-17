@@ -5,14 +5,19 @@
 [White "Le Bosquain, B."]
 [Black "Raoult, Bruno"]
 [Result "0-1"]
+[WhiteElo "1740"]
 [BlackElo "1870"]
 [ECO "A45"]
+[Opening "Indian: 2.e3 e6"]
 [EventDate "1994.??.??"]
-[Opening "Queen's pawn game"]
 [PlyCount "72"]
-[WhiteElo "1740"]
 
-1. d4 Nf6 2. e3 e6 3. Bd3 c5 4. c3 b6 5. f4 Bb7 6. Nf3 Be4 7. O-O d5 8. Bxe4 Nxe4 9. Nbd2 Nxd2 10. Bxd2 Bd6 11. Ne5 O-O 12. Qh5 f6 13. Ng4 Nd7 14. f5 Qe8 15. Qxe8 Rfxe8 16. fxe6 Nf8 17. Rf5 Rad8 18. Kh1 Be7 19. Nf2 Nxe6 20. Nh3 g6 21. Rf2 f5 22. Rg1 h5 23. Nf4 Nxf4 24. exf4 Bf6 25. dxc5 bxc5 26. Rff1 Re2 27. Rd1 d4 28. Rge1 d3 29. Kg1 c4 30. Kf1 Rde8 31. Bc1 Bd8 32. Bd2 Bb6 33. Bc1 Kf7 34. b3 Rf2+ 35. Kg1 Rxe1+ 36. Rxe1 d2 0-1
+1. d4 Nf6 2. e3 e6 3. Bd3 c5 4. c3 b6 5. f4 Bb7 6. Nf3 Be4 7. O-O d5 8.
+Bxe4 Nxe4 9. Nbd2 Nxd2 10. Bxd2 Bd6 11. Ne5 O-O 12. Qh5 f6 13. Ng4 Nd7 14.
+f5 Qe8 15. Qxe8 Rfxe8 16. fxe6 Nf8 17. Rf5 Rad8 18. Kh1 Be7 19. Nf2 Nxe6
+20. Nh3 g6 21. Rf2 f5 22. Rg1 h5 23. Nf4 Nxf4 24. exf4 Bf6 25. dxc5 bxc5
+26. Rff1 Re2 27. Rd1 d4 28. Rge1 d3 29. Kg1 c4 30. Kf1 Rde8 31. Bc1 Bd8 32.
+Bd2 Bb6 33. Bc1 Kf7 34. b3 Rf2+ 35. Kg1 Rxe1+ 36. Rxe1 d2 0-1
 
 [Event "Yvelines Team Championship"]
 [Site "?"]
@@ -21,17 +26,20 @@
 [White "Brunel, E."]
 [Black "Raoult, Bruno"]
 [Result "0-1"]
-[BlackElo "1870"]
-[ECO "C33"]
-[ECOT "C34"]
-[EventDate "1994.??.??"]
-[Opening "King's Gambit Accepted"]
-[OpeningT "King's Gambit Accepted"]
-[PlyCount "80"]
-[VariationT "Fischer defence"]
 [WhiteElo "1740"]
+[BlackElo "1870"]
+[ECO "C34"]
+[Opening "KGA: Fischer, 4.Bc4"]
+[EventDate "1994.??.??"]
+[PlyCount "80"]
 
-1. e4 e5 2. f4 exf4 3. Nf3 d6 4. Bc4 g5 5. h4 Bh6 6. d3 Nc6 7. hxg5 Bxg5 8. g3 Bg4 9. gxf4 Nd4 10. fxg5 Bxf3 11. Bxf7+ Kf8 12. Qd2 Bxh1 13. Qf4 Qxg5 14. Bb3+ Qxf4 15. Bxf4 Bf3 16. Kd2 Nxb3+ 17. axb3 Nf6 18. Nc3 a6 19. Rf1 Rg8 20. Rxf3 Rg2+ 21. Kd1 Kg7 22. Be3 Kg6 23. Bd4 Ng4 24. Nd5 Ne5 25. Ne7+ Kg5 26. Be3+ Kg4 27. Rf4+ Kh3 28. Nf5 Rg4 29. Rf1 Rg2 30. Bf4 Ng6 31. Rh1+ Kg4 32. Ne3+ Kf3 33. Rh3+ Kf2 34. Rxh7 Rg1+ 35. Kd2 Nxf4 36. Rf7 Kf3 37. Nd5 Rg4 38. Kc3 Kg3 39. d4 Nxd5+ 40. exd5 Rc8 0-1
+1. e4 e5 2. f4 exf4 3. Nf3 d6 4. Bc4 g5 5. h4 Bh6 6. d3 Nc6 7. hxg5 Bxg5 8.
+g3 Bg4 9. gxf4 Nd4 10. fxg5 Bxf3 11. Bxf7+ Kf8 12. Qd2 Bxh1 13. Qf4 Qxg5
+14. Bb3+ Qxf4 15. Bxf4 Bf3 16. Kd2 Nxb3+ 17. axb3 Nf6 18. Nc3 a6 19. Rf1
+Rg8 20. Rxf3 Rg2+ 21. Kd1 Kg7 22. Be3 Kg6 23. Bd4 Ng4 24. Nd5 Ne5 25. Ne7+
+Kg5 26. Be3+ Kg4 27. Rf4+ Kh3 28. Nf5 Rg4 29. Rf1 Rg2 30. Bf4 Ng6 31. Rh1+
+Kg4 32. Ne3+ Kf3 33. Rh3+ Kf2 34. Rxh7 Rg1+ 35. Kd2 Nxf4 36. Rf7 Kf3 37.
+Nd5 Rg4 38. Kc3 Kg3 39. d4 Nxd5+ 40. exd5 Rc8 0-1
 
 [Event "Yvelines Team Championship"]
 [Site "?"]
@@ -40,15 +48,18 @@
 [White "Bednarczik, G."]
 [Black "Raoult, Bruno"]
 [Result "1-0"]
-[BlackElo "1870"]
-[ECO "C25"]
-[ECOT "C28"]
-[EventDate "1994.??.??"]
-[Opening "Vienna"]
-[OpeningT "Vienna"]
-[PlyCount "81"]
-[Variation "Max Lange"]
 [WhiteElo "1610"]
+[BlackElo "1870"]
+[ECO "C28"]
+[Opening "Vienna: 3.Bc4 Nc6 4.d3 Be7"]
+[EventDate "1994.??.??"]
+[PlyCount "81"]
 
-1. e4 e5 2. Nc3 Nc6 3. Bc4 Nf6 4. d3 Be7 5. Nge2 Na5 6. Be3 Nxc4 7. dxc4 d6 8. Qd3 O-O 9. Nd5 Ng4 10. Nxe7+ Qxe7 11. Bd2 f5 12. f3 fxe4 13. Qxe4 Nf6 14. Bg5 Qf7 15. Bxf6 Qxf6 16. O-O-O Qg5+ 17. f4 exf4 18. Kb1 Bg4 19. Rd5 Qf6 20. Nd4 Rae8 21. Qd3 Re3 22. Qd2 Rfe8 23. h3 Bh5 24. Rxh5 g5 25. h4 gxh4 26. R5xh4 Qxh4 27. Rxh4 Re1+ 28. Qc1 Rxc1+ 29. Kxc1 Re4 30. c3 Kg7 31. g3 Re1+ 32. Kd2 Rb1 33. Kc2 Ra1 34. Ne6+ Kg8 35. Rxf4 h6 36. Nxc7 Rxa2 37. Rf6 Ra4 38. Kb3 Ra5 39. Rxh6 Rc5 40. Nd5 b5 41. Rxd6 1-0
+1. e4 e5 2. Nc3 Nc6 3. Bc4 Nf6 4. d3 Be7 5. Nge2 Na5 6. Be3 Nxc4 7. dxc4 d6
+8. Qd3 O-O 9. Nd5 Ng4 10. Nxe7+ Qxe7 11. Bd2 f5 12. f3 fxe4 13. Qxe4 Nf6
+14. Bg5 Qf7 15. Bxf6 Qxf6 16. O-O-O Qg5+ 17. f4 exf4 18. Kb1 Bg4 19. Rd5
+Qf6 20. Nd4 Rae8 21. Qd3 Re3 22. Qd2 Rfe8 23. h3 Bh5 24. Rxh5 g5 25. h4
+gxh4 26. R5xh4 Qxh4 27. Rxh4 Re1+ 28. Qc1 Rxc1+ 29. Kxc1 Re4 30. c3 Kg7 31.
+g3 Re1+ 32. Kd2 Rb1 33. Kc2 Ra1 34. Ne6+ Kg8 35. Rxf4 h6 36. Nxc7 Rxa2 37.
+Rf6 Ra4 38. Kb3 Ra5 39. Rxh6 Rc5 40. Nd5 b5 41. Rxd6 1-0
 

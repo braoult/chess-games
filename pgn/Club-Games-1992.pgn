@@ -5,15 +5,19 @@
 [White "Raoult, Bruno"]
 [Black "Crapez, Marc"]
 [Result "1/2-1/2"]
-[ECO "C44"]
-[ECOT "C69"]
-[Opening "King's pawn game"]
-[OpeningT "Ruy Lopez"]
-[PlyCount "87"]
-[VariationT "exchange variation, 5.O-O"]
 [WhiteElo "1730"]
+[ECO "C68"]
+[Opening "Spanish: Exchange, 5.O-O Bd6"]
+[PlyCount "87"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bd6 6. d4 Bg4 7. dxe5 Bxf3 8. Qxf3 Bxe5 9. Nc3 Qf6 10. Qxf6 Nxf6 11. f3 O-O-O 12. Be3 Bd4 13. Bxd4 Rxd4 14. Rfd1 Rhd8 15. Rxd4 Rxd4 16. Rd1 Rxd1+ 17. Nxd1 Kd7 18. Kf2 c5 19. Ne3 b5 20. c4 Ke6 21. Nf5 g6 22. Nh6 Nd7 23. f4 Nb6 24. cxb5 axb5 25. b3 c4 26. Ke2 cxb3 27. axb3 c5 28. Ng4 f5 29. Nf2 c4 30. bxc4 Nxc4 31. e5 Nxe5 32. fxe5 Kxe5 33. Ke3 f4+ 34. Kd3 g5 35. Kc3 h5 36. Kd3 g4 37. Ke2 Kd4 38. Nd1 b4 39. h3 b3 40. hxg4 hxg4 41. Kd2 Ke4 42. Nf2+ Kf5 43. Nd3 Kg5 44. Ke2 1/2-1/2
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bd6 6. d4 Bg4 7. dxe5
+Bxf3 8. Qxf3 Bxe5 9. Nc3 Qf6 10. Qxf6 Nxf6 11. f3 O-O-O 12. Be3 Bd4 13.
+Bxd4 Rxd4 14. Rfd1 Rhd8 15. Rxd4 Rxd4 16. Rd1 Rxd1+ 17. Nxd1 Kd7 18. Kf2 c5
+19. Ne3 b5 20. c4 Ke6 21. Nf5 g6 22. Nh6 Nd7 23. f4 Nb6 24. cxb5 axb5 25.
+b3 c4 26. Ke2 cxb3 27. axb3 c5 28. Ng4 f5 29. Nf2 c4 30. bxc4 Nxc4 31. e5
+Nxe5 32. fxe5 Kxe5 33. Ke3 f4+ 34. Kd3 g5 35. Kc3 h5 36. Kd3 g4 37. Ke2 Kd4
+38. Nd1 b4 39. h3 b3 40. hxg4 hxg4 41. Kd2 Ke4 42. Nf2+ Kf5 43. Nd3 Kg5 44.
+Ke2 1/2-1/2
 
 [Event "Conflans Club"]
 [Site "Conflans Ste Honorine FRA"]
@@ -22,15 +26,15 @@
 [White "Raoult, Bruno"]
 [Black "Probert, Luc"]
 [Result "1-0"]
-[ECO "C44"]
-[ECOT "C65"]
-[Opening "King's pawn game"]
-[OpeningT "Ruy Lopez"]
-[PlyCount "37"]
-[VariationT "Berlin defence, 4.O-O"]
 [WhiteElo "1730"]
+[ECO "C65"]
+[Opening "Spanish: Berlin, 4.O-O"]
+[PlyCount "37"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O a6 5. Bxc6 dxc6 6. Nxe5 Bc5 7. c3 Nxe4 8. d4 Bd6 9. Re1 Bf5 10. Nd2 O-O 11. Nxe4 Bxe5 12. Nc5 Re8 13. dxe5 Rxe5 14. Nxb7 Qxd1 15. Rxd1 Bc2 16. Bf4 Rb5 17. Rd8+ Rxd8 18. Nxd8 Be4 19. Re1 1-0
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O a6 5. Bxc6 dxc6 6. Nxe5 Bc5 7. c3
+Nxe4 8. d4 Bd6 9. Re1 Bf5 10. Nd2 O-O 11. Nxe4 Bxe5 12. Nc5 Re8 13. dxe5
+Rxe5 14. Nxb7 Qxd1 15. Rxd1 Bc2 16. Bf4 Rb5 17. Rd8+ Rxd8 18. Nxd8 Be4 19.
+Re1 1-0
 
 [Event "Conflans Club"]
 [Site "Conflans Ste Honorine FRA"]
@@ -39,16 +43,16 @@
 [White "Valentin, Alain"]
 [Black "Raoult, Bruno"]
 [Result "1/2-1/2"]
-[BlackElo "1730"]
-[ECO "A56"]
-[ECOT "E76"]
-[Opening "Benoni"]
-[OpeningT "King's Indian Defence"]
-[PlyCount "46"]
-[VariationT "Four pawns attack, dynamic line"]
 [WhiteElo "1660"]
+[BlackElo "1730"]
+[ECO "E76"]
+[Opening "King's Indian: Four Pawns Attack, 6.Nf3 c5 7.d5"]
+[PlyCount "46"]
 
-1. d4 Nf6 2. c4 c5 3. d5 d6 4. Nc3 g6 5. e4 Bg7 6. f4 O-O 7. Nf3 Bg4 8. Be2 Ne8 9. O-O Bxf3 10. Rxf3 f5 11. exf5 Rxf5 12. g4 Bd4+ 13. Kh1 Rf7 14. Ne4 Nf6 15. Ng5 Nxg4 16. Nxf7 Kxf7 17. f5 Kg7 18. fxg6 hxg6 19. Rf7+ Kxf7 20. Bxg4 Kg7 21. Qf3 Na6 22. Be6 Qf8 23. Qh3 Qh8 1/2-1/2
+1. d4 Nf6 2. c4 c5 3. d5 d6 4. Nc3 g6 5. e4 Bg7 6. f4 O-O 7. Nf3 Bg4 8. Be2
+Ne8 9. O-O Bxf3 10. Rxf3 f5 11. exf5 Rxf5 12. g4 Bd4+ 13. Kh1 Rf7 14. Ne4
+Nf6 15. Ng5 Nxg4 16. Nxf7 Kxf7 17. f5 Kg7 18. fxg6 hxg6 19. Rf7+ Kxf7 20.
+Bxg4 Kg7 21. Qf3 Na6 22. Be6 Qf8 23. Qh3 Qh8 1/2-1/2
 
 [Event "Conflans Club"]
 [Site "Conflans Ste Honorine FRA"]
@@ -57,16 +61,18 @@
 [White "Arino, F."]
 [Black "Raoult, Bruno"]
 [Result "1-0"]
-[BlackElo "1730"]
-[ECO "C44"]
-[ECOT "C81"]
-[Opening "King's pawn game"]
-[OpeningT "Ruy Lopez"]
-[PlyCount "61"]
-[VariationT "open, Howell attack"]
 [WhiteElo "2210"]
+[BlackElo "1730"]
+[ECO "C81"]
+[Opening "Spanish: Open, Keres Attack"]
+[PlyCount "61"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5 Be6 9. Qe2 Na5 10. c3 Nxb3 11. axb3 Bc5 $2 { 11... Qd7 protegeait le pion b5 } 12. Rxa6 $1 O-O 13. Rxa8 Qxa8 14. Nd4 Qa2 15. Be3 Bxd4 16. cxd4 f6 17. f3 Ng5 18. Bxg5 fxg5 19. b4 Bf5 20. Nc3 Qb3 21. Qxb5 Qxb2 22. Qxd5+ Kh8 23. Ne4 Qxb4 24. Qc5 Qb8 25. Nc3 Rd8 26. d5 Bc2 27. e6 Kg8 28. e7 Re8 29. Re1 Kf7 30. Nb5 Bf5 31. Nxc7 1-0
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. Qe2 Na5 10. c3 Nxb3 11. axb3 Bc5 $2 { 11... Qd7 protegeait le
+pion b5 } 12. Rxa6 $1 O-O 13. Rxa8 Qxa8 14. Nd4 Qa2 15. Be3 Bxd4 16. cxd4
+f6 17. f3 Ng5 18. Bxg5 fxg5 19. b4 Bf5 20. Nc3 Qb3 21. Qxb5 Qxb2 22. Qxd5+
+Kh8 23. Ne4 Qxb4 24. Qc5 Qb8 25. Nc3 Rd8 26. d5 Bc2 27. e6 Kg8 28. e7 Re8
+29. Re1 Kf7 30. Nb5 Bf5 31. Nxc7 1-0
 
 [Event "Conflans Club"]
 [Site "Conflans Ste Honorine FRA"]
@@ -77,13 +83,20 @@
 [Result "1-0"]
 [BlackElo "1730"]
 [ECO "A46"]
-[ECOT "A46"]
-[Opening "Queen's pawn game"]
-[OpeningT "Queen's pawn game"]
+[Opening "Indian: 1.d4 Nf6 2.Nf3 e6 3.e3 c5"]
 [PlyCount "123"]
-[VariationT "Yusupov-Rubinstein system"]
 
-1. d4 Nf6 2. Nf3 e6 3. e3 c5 4. c3 d5 5. Bb5+ Bd7 6. Qb3 c4 7. Bxd7+ Qxd7 8. Qc2 Bd6 9. b3 b5 10. Ba3 a5 11. Bxd6 Qxd6 12. bxc4 dxc4 13. Nbd2 O-O 14. O-O Nbd7 15. Rab1 Rfb8 16. Rb2 b4 17. Nxc4 Qd5 18. Nce5 Nxe5 19. Nxe5 Qe4 20. cxb4 Rxb4 21. Qxe4 Nxe4 22. Rxb4 axb4 23. Rc1 f6 24. Nc6 Rxa2 25. Nxb4 Rxf2 26. Nd3 Re2 27. Nf4 Rxe3 28. Nxe6 Kf7 29. d5 Rc3 30. Re1 f5 31. h3 Rd3 32. Nc7 Ke7 33. Ra1 Kd6 34. Ra7 g5 35. Ne8+ Kxd5 36. Rxh7 Ke5 37. Ra7 Rg3 38. Ng7 g4 39. Ra5+ Kf4 40. Nh5+ Kg5 41. Nxg3 Nxg3 42. hxg4 Kxg4 43. Kf2 Ne4+ 44. Kg1 f4 45. Kh2 Ng3 46. Ra4 Nf1+ 47. Kg1 Ne3 48. Kf2 Nd1+ 49. Ke1 Ne3 50. Kf2 Nd1+ 51. Kg1 Ne3 52. Kh2 Nf1+ 53. Kh1 Kg3 54. Ra3+ Kg4 55. Rf3 Ng3+ 56. Kh2 Ne4 57. Rh3 Nf2 58. Rh8 Ne4 59. Rg8+ Ng5 60. Rg7 Kf5 61. Kg1 Ke4 62. Rxg5 1-0
+1. d4 Nf6 2. Nf3 e6 3. e3 c5 4. c3 d5 5. Bb5+ Bd7 6. Qb3 c4 7. Bxd7+ Qxd7
+8. Qc2 Bd6 9. b3 b5 10. Ba3 a5 11. Bxd6 Qxd6 12. bxc4 dxc4 13. Nbd2 O-O 14.
+O-O Nbd7 15. Rab1 Rfb8 16. Rb2 b4 17. Nxc4 Qd5 18. Nce5 Nxe5 19. Nxe5 Qe4
+20. cxb4 Rxb4 21. Qxe4 Nxe4 22. Rxb4 axb4 23. Rc1 f6 24. Nc6 Rxa2 25. Nxb4
+Rxf2 26. Nd3 Re2 27. Nf4 Rxe3 28. Nxe6 Kf7 29. d5 Rc3 30. Re1 f5 31. h3 Rd3
+32. Nc7 Ke7 33. Ra1 Kd6 34. Ra7 g5 35. Ne8+ Kxd5 36. Rxh7 Ke5 37. Ra7 Rg3
+38. Ng7 g4 39. Ra5+ Kf4 40. Nh5+ Kg5 41. Nxg3 Nxg3 42. hxg4 Kxg4 43. Kf2
+Ne4+ 44. Kg1 f4 45. Kh2 Ng3 46. Ra4 Nf1+ 47. Kg1 Ne3 48. Kf2 Nd1+ 49. Ke1
+Ne3 50. Kf2 Nd1+ 51. Kg1 Ne3 52. Kh2 Nf1+ 53. Kh1 Kg3 54. Ra3+ Kg4 55. Rf3
+Ng3+ 56. Kh2 Ne4 57. Rh3 Nf2 58. Rh8 Ne4 59. Rg8+ Ng5 60. Rg7 Kf5 61. Kg1
+Ke4 62. Rxg5 1-0
 
 [Event "Conflans Club"]
 [Site "Conflans Ste Honorine FRA"]
@@ -92,15 +105,13 @@
 [White "Raoult, Bruno"]
 [Black "Le Pavec, J."]
 [Result "1-0"]
-[ECO "C44"]
-[ECOT "C69"]
-[Opening "King's pawn game"]
-[OpeningT "Ruy Lopez"]
-[PlyCount "23"]
-[VariationT "exchange variation, 5.O-O"]
 [WhiteElo "1690"]
+[ECO "C68"]
+[Opening "Spanish: Exchange, 5.O-O"]
+[PlyCount "23"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Nf6 6. Nxe5 Nxe4 7. Re1 Bf5 8. d3 Bc5 9. dxe4 Qc8 10. exf5 Qxf5 11. Ng6+ Be7 12. Rxe7# 1-0
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Nf6 6. Nxe5 Nxe4 7. Re1
+Bf5 8. d3 Bc5 9. dxe4 Qc8 10. exf5 Qxf5 11. Ng6+ Be7 12. Rxe7# 1-0
 
 [Event "Conflans Club"]
 [Site "Conflans Ste Honorine FRA"]
@@ -109,14 +120,17 @@
 [White "Valentin, Alain"]
 [Black "Raoult, Bruno"]
 [Result "0-1"]
-[BlackElo "1690"]
-[ECO "A84"]
-[ECOT "A90"]
-[Opening "Dutch"]
-[OpeningT "Dutch"]
-[PlyCount "78"]
-[VariationT "Alekhine"]
 [WhiteElo "1650"]
+[BlackElo "1690"]
+[ECO "A90"]
+[Opening "Dutch: 2.c4 Nf6 3.g3 e6 4.Bg2 d5"]
+[PlyCount "78"]
 
-1. d4 e6 2. c4 f5 3. g3 Nf6 4. Bg2 d5 5. Qb3 c6 6. Bf4 Be7 7. Nf3 O-O 8. O-O Ne4 9. Nc3 Nd7 10. Rfc1 Ndf6 11. c5 Ng4 12. Nxe4 fxe4 13. Ne5 Nxe5 14. Bxe5 Bf6 15. f4 exf3 16. exf3 Bxe5 17. dxe5 Rb8 18. Qc3 b6 19. cxb6 Qxb6+ 20. Qc5 Qxc5+ 21. Rxc5 Bd7 22. b3 Rb6 23. Ra5 Ra8 24. Rd1 Rb5 25. Ra4 a5 26. Rf4 Rb4 27. Rxb4 axb4 28. Rd2 c5 29. f4 Bc6 30. f5 Kf7 31. g4 Rc8 32. Kf2 Ke7 33. Kg3 c4 34. bxc4 dxc4 35. Rd6 Bxg2 36. Rxe6+ Kf8 37. Rd6 c3 38. Rd1 c2 39. Rc1 Bd5 0-1
+1. d4 e6 2. c4 f5 3. g3 Nf6 4. Bg2 d5 5. Qb3 c6 6. Bf4 Be7 7. Nf3 O-O 8.
+O-O Ne4 9. Nc3 Nd7 10. Rfc1 Ndf6 11. c5 Ng4 12. Nxe4 fxe4 13. Ne5 Nxe5 14.
+Bxe5 Bf6 15. f4 exf3 16. exf3 Bxe5 17. dxe5 Rb8 18. Qc3 b6 19. cxb6 Qxb6+
+20. Qc5 Qxc5+ 21. Rxc5 Bd7 22. b3 Rb6 23. Ra5 Ra8 24. Rd1 Rb5 25. Ra4 a5
+26. Rf4 Rb4 27. Rxb4 axb4 28. Rd2 c5 29. f4 Bc6 30. f5 Kf7 31. g4 Rc8 32.
+Kf2 Ke7 33. Kg3 c4 34. bxc4 dxc4 35. Rd6 Bxg2 36. Rxe6+ Kf8 37. Rd6 c3 38.
+Rd1 c2 39. Rc1 Bd5 0-1
 

@@ -5,14 +5,22 @@
 [White "Pierlot, P."]
 [Black "Raoult, Bruno"]
 [Result "0-1"]
+[WhiteElo "1700"]
 [BlackElo "1780"]
 [ECO "A45"]
+[Opening "Indian: 2.e3 e6"]
 [EventDate "1993.??.??"]
-[Opening "Queen's pawn game"]
 [PlyCount "100"]
-[WhiteElo "1700"]
 
-1. d4 Nf6 2. e3 e6 3. Bd3 c5 4. c3 Nc6 5. f4 b6 6. Nf3 Bb7 7. Nbd2 Be7 8. O-O O-O 9. Ne5 cxd4 10. exd4 Nd5 11. Ne4 f5 12. Ng3 Qe8 13. Qb3 Bh4 14. Nxf5 Na5 15. Qc2 exf5 16. Bxf5 g6 17. Bxd7 Qe7 18. b3 Bf6 19. c4 Bxe5 20. fxe5 Rxf1+ 21. Kxf1 Qxd7 22. cxd5 Qxd5 23. Bb2 Nc6 24. Rd1 Rd8 25. Qc4 Qxc4+ 26. bxc4 Nxe5 27. d5 Nxc4 28. Bc1 Rxd5 29. Rxd5 Bxd5 30. Ke2 Bxg2 31. Kd3 Ne5+ 32. Kc3 Kf7 33. Bf4 Ke6 34. Bg3 g5 35. Kb4 h5 36. h4 gxh4 37. Bxh4 Bb7 38. Bg5 Nf3 39. Be3 h4 40. a4 h3 41. Bf4 h2 42. Bxh2 Nxh2 43. a5 Bc6 44. Kc4 Kd6 45. Kb4 Kd5 46. Kb3 Kc5 47. Kb2 Kc4 48. Kb1 Kc3 49. Ka2 b5 50. Kb1 Be4+ 0-1
+1. d4 Nf6 2. e3 e6 3. Bd3 c5 4. c3 Nc6 5. f4 b6 6. Nf3 Bb7 7. Nbd2 Be7 8.
+O-O O-O 9. Ne5 cxd4 10. exd4 Nd5 11. Ne4 f5 12. Ng3 Qe8 13. Qb3 Bh4 14.
+Nxf5 Na5 15. Qc2 exf5 16. Bxf5 g6 17. Bxd7 Qe7 18. b3 Bf6 19. c4 Bxe5 20.
+fxe5 Rxf1+ 21. Kxf1 Qxd7 22. cxd5 Qxd5 23. Bb2 Nc6 24. Rd1 Rd8 25. Qc4
+Qxc4+ 26. bxc4 Nxe5 27. d5 Nxc4 28. Bc1 Rxd5 29. Rxd5 Bxd5 30. Ke2 Bxg2 31.
+Kd3 Ne5+ 32. Kc3 Kf7 33. Bf4 Ke6 34. Bg3 g5 35. Kb4 h5 36. h4 gxh4 37. Bxh4
+Bb7 38. Bg5 Nf3 39. Be3 h4 40. a4 h3 41. Bf4 h2 42. Bxh2 Nxh2 43. a5 Bc6
+44. Kc4 Kd6 45. Kb4 Kd5 46. Kb3 Kc5 47. Kb2 Kc4 48. Kb1 Kc3 49. Ka2 b5 50.
+Kb1 Be4+ 0-1
 
 [Event "Fou Team Criterium"]
 [Site "?"]
@@ -21,14 +29,19 @@
 [White "Raoult, Bruno"]
 [Black "Prigent, F."]
 [Result "1-0"]
+[WhiteElo "1780"]
 [BlackElo "1730"]
 [ECO "B40"]
+[Opening "Sicilian: 2...e6 3.b3"]
 [EventDate "1993.??.??"]
-[Opening "Sicilian"]
 [PlyCount "43"]
-[WhiteElo "1780"]
 
-1. e4 c5 2. Nf3 e6 3. b3 Nf6 4. Nc3 d6 5. Bb2 Nc6 6. Bd3 Bd7 7. O-O Be7 8. Re1 O-O 9. e5 dxe5 10. Nxe5 Nxe5 11. Rxe5 Bd6 12. Re3 Re8 13. Ne4 Nxe4 14. Bxe4 Bf4 15. Rh3 e5 16. Qh5 h6 ( 16... Bxh3 17. Qxh7+ Kf8 18. Qxh3 Qxd2 19. Qh8+ Ke7 20. Qxg7 Rg8 21. Qh7 Rh8 22. Qf5 Bxh2+ 23. Kf1 Bf4 24. g3 Bg5 25. Qxe5+ Kd7 26. Qf5+ $18 Kc7 ) 17. Rd3 Qc8 18. Bd5 g6 $4 { Coup joue en me proposant la nulle! } 19. Qxg6+ Kh8 20. Qf6+ Kh7 21. Qxf7+ Kh8 22. Qxf4 1-0
+1. e4 c5 2. Nf3 e6 3. b3 Nf6 4. Nc3 d6 5. Bb2 Nc6 6. Bd3 Bd7 7. O-O Be7 8.
+Re1 O-O 9. e5 dxe5 10. Nxe5 Nxe5 11. Rxe5 Bd6 12. Re3 Re8 13. Ne4 Nxe4 14.
+Bxe4 Bf4 15. Rh3 e5 16. Qh5 h6 (16... Bxh3 17. Qxh7+ Kf8 18. Qxh3 Qxd2 19.
+Qh8+ Ke7 20. Qxg7 Rg8 21. Qh7 Rh8 22. Qf5 Bxh2+ 23. Kf1 Bf4 24. g3 Bg5 25.
+Qxe5+ Kd7 26. Qf5+ $18 Kc7) 17. Rd3 Qc8 18. Bd5 g6 $4 { Coup joue en me
+proposant la nulle! } 19. Qxg6+ Kh8 20. Qf6+ Kh7 21. Qxf7+ Kh8 22. Qxf4 1-0
 
 [Event "Fou Team Criterium"]
 [Site "?"]
@@ -37,17 +50,17 @@
 [White "Raoult, Bruno"]
 [Black "Hauseux, B."]
 [Result "1-0"]
-[BlackElo "1650"]
-[ECO "C44"]
-[ECOT "C69"]
-[EventDate "1993.??.??"]
-[Opening "King's pawn game"]
-[OpeningT "Ruy Lopez"]
-[PlyCount "43"]
-[VariationT "exchange, Gligoric variation"]
 [WhiteElo "1780"]
+[BlackElo "1650"]
+[ECO "C69"]
+[Opening "Spanish: Exchange, Gligoric, 6.d4 Bg4"]
+[EventDate "1993.??.??"]
+[PlyCount "43"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 Bg4 7. h3 Bxf3 8. Qxf3 Qxd4 $2 9. Rd1 Qa7 10. Qg4 Bd6 $4 11. Qxg7 O-O-O 12. Qxh8 b5 13. Be3 Qb8 14. Nd2 Kb7 15. Nb3 Ne7 16. Qxf6 Rf8 17. Qe6 Ng6 18. Na5+ Ka8 19. a4 Nf4 20. Qb3 Qe8 21. axb5 cxb5 22. Bxf4 1-0
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 Bg4 7. h3 Bxf3
+8. Qxf3 Qxd4 $2 9. Rd1 Qa7 10. Qg4 Bd6 $4 11. Qxg7 O-O-O 12. Qxh8 b5 13.
+Be3 Qb8 14. Nd2 Kb7 15. Nb3 Ne7 16. Qxf6 Rf8 17. Qe6 Ng6 18. Na5+ Ka8 19.
+a4 Nf4 20. Qb3 Qe8 21. axb5 cxb5 22. Bxf4 1-0
 
 [Event "Fou Team Criterium"]
 [Site "?"]
@@ -56,12 +69,18 @@
 [White "Raoult, Bruno"]
 [Black "David, PY."]
 [Result "1/2-1/2"]
+[WhiteElo "1780"]
 [BlackElo "1790"]
 [ECO "B20"]
+[Opening "Sicilian: Snyder"]
 [EventDate "1993.??.??"]
-[Opening "Sicilian"]
 [PlyCount "53"]
-[WhiteElo "1780"]
 
-{ 1/4 } 1. e4 c5 2. b3 e5 3. Bb2 Nc6 4. Nf3 d6 5. Bc4 Bg4 6. Nc3 Nf6 7. d3 Nd4 8. Nb5 Nxf3+ 9. gxf3 Bh5 10. Qe2 a6 11. Nc3 Qd7 12. h3 b5 13. Bd5 Rb8 14. O-O-O b4 15. Nb1 Nxd5 16. exd5 Be7 17. Bxe5 O-O 18. Bb2 Bg5+ 19. Nd2 Rbe8 20. Qf1 Bxf3 21. Rg1 Bxd1 22. Qxd1 Bxd2+ 23. Qxd2 f6 24. Rg3 Qe7 25. Re3 Qf7 26. Rg3 Qe7 27. Re3 1/2-1/2
+{ 1/4 }
+
+1. e4 c5 2. b3 e5 3. Bb2 Nc6 4. Nf3 d6 5. Bc4 Bg4 6. Nc3 Nf6 7. d3 Nd4 8.
+Nb5 Nxf3+ 9. gxf3 Bh5 10. Qe2 a6 11. Nc3 Qd7 12. h3 b5 13. Bd5 Rb8 14.
+O-O-O b4 15. Nb1 Nxd5 16. exd5 Be7 17. Bxe5 O-O 18. Bb2 Bg5+ 19. Nd2 Rbe8
+20. Qf1 Bxf3 21. Rg1 Bxd1 22. Qxd1 Bxd2+ 23. Qxd2 f6 24. Rg3 Qe7 25. Re3
+Qf7 26. Rg3 Qe7 27. Re3 1/2-1/2
 

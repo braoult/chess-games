@@ -1,10 +1,3 @@
-{
-A PGN file generated from Scid vs. PC (v. 4.21)'s scid.eco with eco2pgn
-script (which part of Scid vs. PC software).
-
-This file is therefore Copyright (C)) 1999-2014 Shane Hudson and others.
-}
-
 [ECO "A00a"]
 [Variation "Start"]
 [Result "*"]
@@ -15309,19 +15302,19 @@ This file is therefore Copyright (C)) 1999-2014 Shane Hudson and others.
 [Variation "Pirc: 3.Nbd2"]
 [Result "*"]
 
-  1.e4 d6 2.d4 Nf6 3.Nbd2 *
+  1.e4 d6 2.d4 Nf6 3.Nd2 *
 
 [ECO "B07d"]
 [Variation "Pirc: 3.Nbd2 g6"]
 [Result "*"]
 
-  1.e4 d6 2.d4 Nf6 3.Nbd2 g6 *
+  1.e4 d6 2.d4 Nf6 3.Nd2 g6 *
 
 [ECO "B07d"]
 [Variation "Pirc: 3.Nbd2 g6"]
 [Result "*"]
 
-  1.e4 d6 2.d4 Nf6 3.Nbd2 g6 4.c3 Bg7 *
+  1.e4 d6 2.d4 Nf6 3.Nd2 g6 4.c3 Bg7 *
 
 [ECO "B07e"]
 [Variation "Pirc: 3.f3"]
@@ -28185,13 +28178,13 @@ This file is therefore Copyright (C)) 1999-2014 Shane Hudson and others.
 [Variation "French: Tarrasch, Open, 4.exd5 exd5 5.Ngf3 Nf6, Main Line"]
 [Result "*"]
 
-   1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 exd5 5.Ngf3 Nf6 6.Bb5+ Bd7 7.Bxd7+ Nbd7   8.O-O Be7 9.dxc5 *
+   1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 exd5 5.Ngf3 Nf6 6.Bb5+ Bd7 7.Bxd7+ Nbxd7   8.O-O Be7 9.dxc5 *
 
 [ECO "C08m"]
 [Variation "French: Tarrasch, Open, 4.exd5 exd5 5.Ngf3 Nf6, Main Line, 10.Nb3"]
 [Result "*"]
 
-   1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 exd5 5.Ngf3 Nf6 6.Bb5+ Bd7 7.Bxd7+ Nbd7   8.O-O Be7 9.dxc5 Nxc5 10.Nb3 *
+   1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 exd5 5.Ngf3 Nf6 6.Bb5+ Bd7 7.Bxd7+ Nbxd7   8.O-O Be7 9.dxc5 Nxc5 10.Nb3 *
 
 [ECO "C09a"]
 [Variation "French: Tarrasch, Open, 5.Ngf3 Nc6"]
@@ -30249,7 +30242,7 @@ This file is therefore Copyright (C)) 1999-2014 Shane Hudson and others.
 [Variation "Bishop's Opening: Urusov Gambit, Forintos/Haag Variation"]
 [Result "*"]
 
-   1.e4 e5 2.Bc4 Nf6 3.d4 exd4 4.Nf3 Nxe4 5.Qxd4 Nf6 6.Bg5 Be7 7.Nc3 c6   8.O-O-O d5 9.Rhe1 Be6 10.Bd3 Nbd7 11.Qh4 Nc5 12. Nd4 Ng8 *
+   1.e4 e5 2.Bc4 Nf6 3.d4 exd4 4.Nf3 Nxe4 5.Qxd4 Nf6 6.Bg5 Be7 7.Nc3 c6   8.O-O-O d5 9.Rhe1 Be6 10.Bd3 Nbd7 11.Qh4 Nc5 12.Nd4 Ng8 *
 
 [ECO "C24"]
 [Variation "Bishop's Opening: Urusov Gambit, 7...Nc6 Defence"]
@@ -44493,7 +44486,7 @@ This file is therefore Copyright (C)) 1999-2014 Shane Hudson and others.
 [Variation "QGD: 3.Nf3 Nbd7 (Westphalia)"]
 [Result "*"]
 
-  1.d4 d5 2.c4 e6 3.Nf3 Nbd7 *
+  1.d4 d5 2.c4 e6 3.Nf3 Nd7 *
 
 [ECO "D30h"]
 [Variation "QGD: Tarrasch without Nc3"]
@@ -62164,3 +62157,4 @@ This file is therefore Copyright (C)) 1999-2014 Shane Hudson and others.
 [Result "*"]
 
    1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nc6 8.d5 Ne7   9.Ne1 Nd7 10.f3 f5 11.g4 Nf6 12.Nd3 *
+

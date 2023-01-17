@@ -2,7 +2,7 @@
 <?php
 
 $contentsString = file_get_contents("pgn-list.json");
-$target="br.pgn";
+$target="./pgn/br.pgn";
 $jsondata = json_decode($contentsString, true);
 //print_r($json);
 
