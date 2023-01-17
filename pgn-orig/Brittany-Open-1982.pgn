@@ -1,0 +1,129 @@
+[Event "Brittany Open"]
+[Site "Morlaix FRA"]
+[Date "1982.??.??"]
+[Round "1"]
+[White "Blanchard"]
+[Black "Raoult, Bruno"]
+[Result "1-0"]
+[ECO "A36"]
+[PlyCount "55"]
+[EventDate "1982.??.??"]
+
+1. c4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. e3 d6 6. Nge2 Bf5 7. d4 Bg4 8. h3
+Bxe2 9. Nxe2 Nf6 10. Bd2 Qb6 11. Bc3 cxd4 12. Nxd4 O-O 13. Qb3 Qxb3 14. Nxb3
+Ne5 15. Bxe5 dxe5 16. Bxb7 Rab8 17. Nc5 Rfd8 18. b3 Nd7 19. Nxd7 Rxb7 20. Nc5
+Rc7 21. Ne4 Rcd7 22. O-O h6 23. g4 f5 24. gxf5 gxf5 25. Nc5 Rd6 26. Nb7 e4 27.
+Rac1 Bb2 28. Rb1 1-0
+
+[Event "Brittany Open"]
+[Site "Morlaix FRA"]
+[Date "1982.??.??"]
+[Round "2"]
+[White "Raoult, Bruno"]
+[Black "Le Bihan"]
+[Result "0-1"]
+[ECO "B80"]
+[PlyCount "54"]
+[EventDate "1982.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. Qd2 Be7 8. f3
+O-O 9. Bc4 Nbd7 10. Bxe6 Nb6 11. Bb3 Qc7 12. Qd3 Bd7 13. O-O-O Rac8 14. Rhe1
+Kh8 15. Bg5 Ng8 16. h4 h6 17. Rh1 Qd8 18. Qe3 Nc4 19. Bxc4 Rxc4 20. Nd5 f6 21.
+Bf4 Qa5 22. Nxe7 Nxe7 23. Bxd6 Re8 24. Nb3 Qxa2 25. Ba3 Ba4 26. Kd2 Rd8+ 27.
+Ke2 Rxc2+ 0-1
+
+[Event "Brittany Open"]
+[Site "Morlaix FRA"]
+[Date "1982.??.??"]
+[Round "3"]
+[White "Jaouen"]
+[Black "Raoult, Bruno"]
+[Result "0-1"]
+[ECO "A45"]
+[PlyCount "72"]
+[EventDate "1982.??.??"]
+
+1. d4 Nf6 2. Nc3 e6 3. Bf4 b6 4. e4 Bb7 5. f3 Bb4 6. Nge2 d5 7. e5 Nfd7 8. a3
+Be7 9. Bg3 c5 10. Bf2 Nc6 11. Na4 cxd4 12. Bxd4 Ndxe5 13. f4 Nxd4 14. Qxd4 Ng6
+15. Qxg7 Bc6 16. Nac3 Bf6 17. Qh6 d4 18. O-O-O e5 19. Rg1 exf4 20. Qh3 Bd7 21.
+Qf3 dxc3 22. Nxc3 O-O 23. Bc4 Ne5 24. Qe4 Nxc4 25. Qxc4 Be6 26. Rxd8 Bxc4 27.
+Rdd1 Rad8 28. Ne4 Be7 29. Rxd8 Rxd8 30. g3 f3 31. Re1 Be2 32. Nc3 f2 33. b3
+fxe1=Q+ 34. Kb2 a5 35. Nxe2 Bxa3+ 36. Kxa3 Qa1# 0-1
+
+[Event "Brittany Open"]
+[Site "Morlaix FRA"]
+[Date "1982.??.??"]
+[Round "4"]
+[White "Raoult, Bruno"]
+[Black "Marzin"]
+[Result "1-0"]
+[ECO "B56"]
+[PlyCount "91"]
+[EventDate "1982.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bd7 6. Bc4 e6 7. Be3 Be7 8.
+Bb3 a6 9. Qd2 Nc6 10. O-O-O O-O 11. f4 Na5 12. h3 b5 13. a3 Nxb3+ 14. Nxb3 a5
+15. e5 Ne8 16. exd6 Nxd6 17. Ne4 Nf5 18. Qxd7 Nxe3 19. Qxd8 Rfxd8 20. Rxd8+
+Bxd8 21. g3 b4 22. a4 h6 23. Re1 Nd5 24. Rd1 Ne3 25. Rd7 Kf8 26. Nd6 Be7 27.
+Nd4 Bxd6 28. Rxd6 Nf5 29. Nxf5 exf5 30. Kd2 Ke7 31. Rd3 Rd8 32. Rxd8 Kxd8 33.
+c3 bxc3+ 34. Kxc3 Kc7 35. Kc4 Kb6 36. Kd5 h5 37. h4 f6 38. Kd6 g6 39. b3 g5 40.
+Kd5 Kc7 41. Kc5 Kd7 42. Kb5 Kd6 43. Kxa5 gxh4 44. gxh4 Kd5 45. b4 Ke4 46. b5
+1-0
+
+[Event "Brittany Open"]
+[Site "Morlaix FRA"]
+[Date "1982.??.??"]
+[Round "5"]
+[White "Le Letty"]
+[Black "Raoult, Bruno"]
+[Result "0-1"]
+[ECO "A46"]
+[PlyCount "136"]
+[EventDate "1982.??.??"]
+
+1. d4 e6 2. Nf3 Nf6 3. Bf4 d6 4. h3 Be7 5. e3 c5 6. c3 Nc6 7. Bd3 cxd4 8. exd4
+d5 9. Nbd2 Bd7 10. O-O Na5 11. Ne5 a6 12. Ndf3 h6 13. Re1 Bb5 14. Bxb5+ axb5
+15. Qd3 Nc4 16. b3 Na3 17. Bc1 Qb6 18. Bf4 Ne4 19. Nd2 Bg5 20. Bxg5 Nxg5 21.
+Ndf3 Ne4 22. c4 bxc4 23. bxc4 Qb2 24. Qe2 Qxe2 25. Rxe2 Nc3 26. Rb2 Nxc4 27.
+Nxc4 dxc4 28. Rxb7 O-O 29. Rc7 Rfc8 30. Rxc8+ Rxc8 31. Kf1 Nd5 32. Rc1 c3 33.
+Nd2 Nb4 34. Ne4 c2 35. Nc5 e5 36. a3 Nc6 37. Rxc2 Nxd4 38. Rc3 Nb5 39. Rc1 Nxa3
+40. Nd3 Rxc1+ 41. Nxc1 e4 42. g4 Nc4 43. Ke2 f6 44. Na2 g6 45. Nc3 f5 46. gxf5
+gxf5 47. Nd5 Kf7 48. f3 Ke6 49. fxe4 fxe4 50. Nc3 Kf5 51. Kf2 Nd6 52. Ke3 Ke5
+53. Kf2 Kd4 54. Ne2+ Kd3 55. Nf4+ Kd2 56. Nd5 Nf5 57. Kg1 e3 58. Nxe3 Kxe3 59.
+Kg2 h5 60. Kh2 Kf3 61. Kg1 Kg3 62. Kf1 Kxh3 63. Kf2 Nd4 64. Kg1 h4 65. Kh1 Kg3
+66. Kg1 Ne6 67. Kh1 Ng5 68. Kg1 Ne4 0-1
+
+[Event "Brittany Open"]
+[Site "Morlaix FRA"]
+[Date "1982.??.??"]
+[Round "6"]
+[White "Raoult, Bruno"]
+[Black "Le Fellic"]
+[Result "0-1"]
+[ECO "C61"]
+[PlyCount "62"]
+[EventDate "1982.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nd4 4. Nxe5 Nxb5 5. Nxf7 Kxf7 6. Qh5+ g6 7. Qxb5 c6
+8. Qb3+ Ke8 9. d4 Qe7 10. e5 Qb4+ 11. Qc3 Qb6 12. O-O Ne7 13. Bg5 Nf5 14. Rd1
+d6 15. e6 Bg7 16. Na3 Bxd4 17. Qe1 h6 18. c3 Bg7 19. g4 hxg5 20. gxf5 Qc7 21.
+Qe4 d5 22. Qg2 gxf5 23. Qxg5 Qxh2+ 24. Kf1 Qh1+ 25. Ke2 Qh5+ 26. Qxh5+ Rxh5 27.
+Rg1 Rh7 28. Rg6 Ke7 29. Rag1 Bf6 30. Rg8 Rh8 31. Nc2 Bxe6 0-1
+
+[Event "Brittany Open"]
+[Site "Morlaix FRA"]
+[Date "1982.??.??"]
+[Round "7"]
+[White "Nicolas"]
+[Black "Raoult, Bruno"]
+[Result "1/2-1/2"]
+[ECO "C49"]
+[PlyCount "69"]
+[EventDate "1982.??.??"]
+
+1. e4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. Bb5 Bb4 5. a3 Ba5 6. Bxc6 dxc6 7. O-O Bg4 8.
+d3 O-O 9. Bg5 Qd6 10. Re1 Rfe8 11. b4 Bb6 12. Be3 Bd4 13. Bxd4 Bxf3 14. Qxf3
+Qxd4 15. Ne2 Qb2 16. Rec1 c5 17. bxc5 Nd7 18. Qe3 Qb5 19. Rab1 Qc6 20. Rb2 Nxc5
+21. Nc3 b6 22. Qe1 Na4 23. Nxa4 Qxa4 24. Rb3 Qd7 25. Ra1 Qd6 26. a4 a5 27. Qe3
+Qd4 28. Qxd4 exd4 29. Re1 f6 30. Rb5 Re5 31. Reb1 Kf7 32. f4 Rxb5 33. Rxb5 Ke6
+34. Kf2 Rd8 35. Rb3 1/2-1/2
