@@ -1,14 +1,17 @@
 [Event "Cavalier Team Criterium"]
-[Site "?"]
+[Site "Jouy-le-Moutier FRA"]
 [Date "1992.??.??"]
 [Round "2"]
 [White "Raoult, Bruno"]
 [Black "Gouju, A."]
+[WhiteTeam "Conflans-Sainte-Honorine"]
+[BlackTeam "Jouy-le-Moutier"]
 [Result "1-0"]
 [ECO "C02"]
 [WhiteElo "1690"]
 [PlyCount "41"]
 [EventDate "1992.??.??"]
+[Seat "1"]
 
 1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 Nc6 5. Bd3 cxd4 6. O-O Qb6 7. Nbd2 Bb4 8. Nb3
 Nge7 9. Bf4 O-O 10. Bxh7+ Kxh7 11. Ng5+ Kg6 12. Qg4 Nxe5 13. Bxe5 f6 14. Nxe6+
@@ -16,16 +19,19 @@ Kf7 15. Qxg7+ Kxe6 16. Qxf8 Kxe5 17. a3 Bxa3 18. Rae1+ Kf4 19. Qh6+ Kg4 20. h3+
 Kf5 21. g4# 1-0
 
 [Event "Cavalier Team Criterium"]
-[Site "?"]
+[Site "Conflans-Sainte-Honorine FRA"]
 [Date "1993.??.??"]
 [Round "3"]
 [White "Agullo, S."]
 [Black "Raoult, Bruno"]
+[WhiteTeam "Limetz"]
+[BlackTeam "Conflans-Sainte-Honorine"]
 [Result "0-1"]
 [ECO "C44"]
 [BlackElo "1690"]
 [PlyCount "86"]
 [EventDate "1992.??.??"]
+[Seat "1"]
 
 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 5. O-O d6 6. Re1 Ne5 7. Nxe5 dxe5 8.
 c3 Qf6 9. Kh1 Be6 10. Qa4+ Bd7 11. Qb3 O-O-O 12. Nd2 Be6 13. Nf3 h6 14. Qb5 Bb6
@@ -36,16 +42,19 @@ c3 Qf6 9. Kh1 Be6 10. Qa4+ Bd7 11. Qb3 O-O-O 12. Nd2 Be6 13. Nf3 h6 14. Qb5 Bb6
 40. e6+ fxe6+ 41. Ke5 a2 42. f5 a1=Q+ 43. Kf4 e5+ 0-1
 
 [Event "Cavalier Team Criterium"]
-[Site "?"]
+[Site "Le Chesnay FRA"]
 [Date "1993.??.??"]
 [Round "4"]
 [White "Raoult, Bruno"]
 [Black "Engel, G."]
+[WhiteTeam "Conflans-Sainte-Honorine"]
+[BlackTeam "Le Chesnay"]
 [Result "1-0"]
 [ECO "C02"]
 [WhiteElo "1690"]
 [PlyCount "71"]
 [EventDate "1992.??.??"]
+[Seat "1"]
 
 1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 Nc6 5. Bd3 cxd4 6. O-O Qb6 7. Nbd2 Nge7 8.
 Nb3 Ng6 9. Bxg6 fxg6 10. Nbxd4 Nxd4 11. Nxd4 Be7 12. c3 O-O 13. Qe2 Bd7 14. Be3
@@ -55,17 +64,20 @@ Rfe1 Qc5 28. fxe4 dxe4 29. Rxe4 Qb6 30. Qf2 h6 31. Re7 Qf6 32. Rxb7 Qxf2+ 33.
 Kxf2 Bc4 34. Ree7 Rf8+ 35. Kg3 Ra8 36. Rxg7+ 1-0
 
 [Event "Cavalier Team Criterium"]
-[Site "?"]
+[Site "Conflans-Sainte-Honorine FRA"]]
 [Date "1993.??.??"]
 [Round "6"]
 [White "Torremocha, S."]
 [Black "Raoult, Bruno"]
+[WhiteTeam "Mantes-la-Jolie"]
+[BlackTeam "Conflans-Sainte-Honorine"]
 [Result "1/2-1/2"]
 [ECO "A70"]
 [WhiteElo "1740"]
 [BlackElo "1690"]
 [PlyCount "82"]
 [EventDate "1992.??.??"]
+[Seat "1"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. h3
 O-O 9. Bd3 a6 10. a4 Nbd7 11. O-O Rb8 12. Bf4 Qc7 13. Re1 Re8 14. Rc1 Nh5 15.
@@ -76,16 +88,19 @@ Kg8 34. Qg3 Qg1+ 35. Kxh3 h5 36. Be2 Qd4 37. Bxh5 Qh8 38. Qg4 Qc3+ 39. Qg3 Qh8
 40. Qg4 Qc3+ 41. Qg3 Qh8 1/2-1/2
 
 [Event "Cavalier Team Criterium"]
-[Site "?"]
+[Site "Saint-Germain-en-Laye FRA"]
 [Date "1993.??.??"]
 [Round "7"]
 [White "Raoult, Bruno"]
 [Black "Vicq, G."]
+[WhiteTeam "Conflans-Sainte-Honorine"]
+[BlackTeam "Saint-Germain-en-Laye FRA"]
 [Result "1-0"]
 [ECO "B20"]
 [WhiteElo "1690"]
 [PlyCount "69"]
 [EventDate "1992.??.??"]
+[Seat "1"]
 
 1. e4 c5 2. b3 d6 3. Bb2 e5 4. Bc4 Nf6 5. Nc3 Be7 6. Nge2 Nc6 7. Ng3 a6 8. O-O
 O-O 9. f4 b5 10. Bd5 Nxd5 11. Nxd5 Bh4 12. Qf3 Nd4 13. Bxd4 exd4 14. Nf5 Bxf5
@@ -95,16 +110,19 @@ fxg6 hxg6 22. Nxf6 Qxf6 23. Qg5 Qxg5 24. fxg5 Rd8 25. Re7 Rdd7 26. Rxd7 Rxd7
 Kf4 Kf7 34. Ke5 d3 35. h4 1-0
 
 [Event "Cavalier Team Criterium"]
-[Site "?"]
+[Site "Aulnay-sous-Bois FRA"]
 [Date "1993.??.??"]
 [Round "8"]
 [White "Raoult, Bruno"]
 [Black "Grima, E."]
+[WhiteTeam "Conflans-Sainte-Honorine"]
+[BlackTeam "Aulnay-sous-Bois"]
 [Result "1-0"]
 [ECO "C42"]
 [WhiteElo "1690"]
 [PlyCount "89"]
 [EventDate "1992.??.??"]
+[Seat "1"]
 
 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d3 Nf6 6. h3 Nc6 7. Nc3 d5 8. d4
 Bb4 9. Bb5 Ne4 10. Bd2 Nxd2 11. Qxd2 O-O 12. O-O Qf6 13. Nxd5 Qd6 14. Nxb4 Nxb4
@@ -115,16 +133,19 @@ c5 22. Nf5 Qb6 23. Qg5 g6 24. dxc5 Ne4 25. Ne7+ Kg7 26. cxb6 Nxg5 27. Rxg5 Rfe8
 Nb4 Rf5+ 41. Ke3 Re5+ 42. Kd2 Rg5 43. Bd5 Kc5 44. g4 f5 45. f4 1-0
 
 [Event "Cavalier Team Criterium"]
-[Site "?"]
+[Site "Vincennes FRA"]
 [Date "1993.??.??"]
 [Round "9"]
 [White "Light, P."]
 [Black "Raoult, Bruno"]
+[WhiteTeam "Vincennes"]
+[BlackTeam "Conflans-Sainte-Honorine"]
 [Result "1-0"]
 [ECO "C77"]
 [BlackElo "1690"]
 [PlyCount "95"]
 [EventDate "1992.??.??"]
+[Seat "1"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d4 Nxe4 6. Qe2 d5 7. Nxe5 b5 8.
 Nxc6 Qf6 9. f3 Qxc6 10. Bb3 Be7 11. fxe4 dxe4 12. Nc3 Qg6 13. Qxe4 Qxe4+ 14.

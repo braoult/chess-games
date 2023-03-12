@@ -1,15 +1,18 @@
 [Event "Yvelines Team Championship"]
-[Site "?"]
+[Site "Saint-Quentin-en-Yvelines FRA"]
 [Date "1994.??.??"]
 [Round "1"]
 [White "Le Bosquain, B."]
 [Black "Raoult, Bruno"]
+[WhiteTeam "Saint-Quentin-en-Yvelines"]
+[BlackTeam "Conflans-Sainte-Honorine"]
 [Result "0-1"]
 [ECO "A45"]
 [WhiteElo "1740"]
 [BlackElo "1870"]
 [PlyCount "72"]
 [EventDate "1994.??.??"]
+[Seat "1"]
 
 1. d4 Nf6 2. e3 e6 3. Bd3 c5 4. c3 b6 5. f4 Bb7 6. Nf3 Be4 7. O-O d5 8. Bxe4
 Nxe4 9. Nbd2 Nxd2 10. Bxd2 Bd6 11. Ne5 O-O 12. Qh5 f6 13. Ng4 Nd7 14. f5 Qe8
@@ -19,17 +22,20 @@ Rd1 d4 28. Rge1 d3 29. Kg1 c4 30. Kf1 Rde8 31. Bc1 Bd8 32. Bd2 Bb6 33. Bc1 Kf7
 34. b3 Rf2+ 35. Kg1 Rxe1+ 36. Rxe1 d2 0-1
 
 [Event "Yvelines Team Championship"]
-[Site "?"]
+[Site "Conflans-Sainte-Honorine FRA"]
 [Date "1995.??.??"]
 [Round "5"]
 [White "Brunel, E."]
 [Black "Raoult, Bruno"]
+[WhiteTeam "Saint-Germain-en-Laye A"]
+[BlackTeam "Conflans-Sainte-Honorine"]
 [Result "0-1"]
 [ECO "C34"]
 [WhiteElo "1740"]
 [BlackElo "1870"]
 [PlyCount "80"]
 [EventDate "1994.??.??"]
+[Seat "2"]
 
 1. e4 e5 2. f4 exf4 3. Nf3 d6 4. Bc4 g5 5. h4 Bh6 6. d3 Nc6 7. hxg5 Bxg5 8. g3
 Bg4 9. gxf4 Nd4 10. fxg5 Bxf3 11. Bxf7+ Kf8 12. Qd2 Bxh1 13. Qf4 Qxg5 14. Bb3+

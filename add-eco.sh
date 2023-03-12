@@ -59,10 +59,11 @@ fi
 for if in "$from"/*.pgn; do
     fn=$(basename "$if")
     of="$to/$fn"
-    printf "Converting %s to %s\n" "$if" "$of"
     if [[ -e $of && $force != t ]]; then
-        printf "Destination file %s already exists, skipping...\n" "$of"
+        printf "Skipping existing destination file %s already exists, skipping...\n" "$of"
         continue
+    else
+        printf "Converting %s to %s\n" "$if" "$of"
+        pgn-extract --allownullmoves -e"$ecodir/$ecofile" "$if" -o"$of"
     fi
-    pgn-extract --allownullmoves -e"$ecodir/$ecofile" "$if" -o"$of"
 done

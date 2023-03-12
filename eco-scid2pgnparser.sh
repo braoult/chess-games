@@ -8,7 +8,9 @@
 # pgn-extract by removing the [Result] lines and replacing [Variation] with
 # [Opening].
 # By default, scid ECO codes are kept (they contain additional letters, such as
-# A00a), the "-e" option will remove these additional letters.
+# A00a) with the tag "ECOs", and the official ECO code (without the additional
+# letters) are set with the "ECO" tag.
+#"the "-e" option will remove "ECOs" from the output.
 
 CMD="${0##*/}"
 
@@ -57,10 +59,31 @@ if [[ -e "$to" && ! "$force" == t ]]; then
     exit 1
 fi
 
-declare -a purge=()
+#declare -a purge=()
 
-if [[ $pureeco == "t" ]]; then
-    purge=(-e "s/\"([A-Z][0-9]{2}).\"/\"\1\"/")
-fi
+#if [[ $pureeco == "t" ]]; then
+#    purge=(-e "s/\"([A-Z][0-9]{2}).\"/\"\1\"/")
+#fi
 
-sed -E -e "/^\[Result/d" -e "s/^\[Variation/\[Opening/" "${purge[@]}" < "$from" > "$to"
+while read -r line; do
+    if [[ "$line" =~ ^\[Result\ .* ]]; then
+        #echo Result skipped.
+        continue
+    elif [[ "$line" =~ ^\[Variation\ .* ]]; then
+        #echo -n "Variation "
+        line="${line/#[Variation/[Opening}"
+        #echo "$line"
+    elif [[ $line =~ ^\[ECO\ .*([A-Z][0-9]{2}).*\] ]]; then
+        eco=${BASH_REMATCH[1]}
+        printf -v line1 "[ECO \"%s\"]" "$eco"
+        if [[ $pureeco == t ]]; then
+            printf -v line "%s" "$line1"
+        else
+            line2="${line/#[ECO/[ECOs}"
+            printf -v line "%s\n%s" "$line1" "$line2"
+        fi
+    fi
+    printf "%s\n" "$line"
+done < "$from" > "$to"
+
+#sed -E -e "/^\[Result/d" -e "s/^\[Variation/\[Opening/" "${purge[@]}" < "$from" > "$to"

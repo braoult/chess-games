@@ -37457,127 +37457,127 @@
    1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Be7 7.d4 *
 
 [ECO "C78h"]
-[Variation "Spanish: 5.O-O b5 6.Bb3 Bc5"]
+[Variation "Spanish: Modern Arkhangelsk"]
 [Result "*"]
 
    1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Bc5 *
 
 [ECO "C78i"]
-[Variation "Spanish: 5.O-O b5 6.Bb3 Bc5 7.Nxe5"]
+[Variation "Spanish: Modern Arkhangelsk, 7.Nxe5"]
 [Result "*"]
 
    1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Bc5 7.Nxe5 *
 
 [ECO "C78i"]
-[Variation "Spanish: 5.O-O b5 6.Bb3 Bc5 7.Nxe5"]
+[Variation "Spanish: Modern Arkhangelsk, 7.Nxe5 Nxe5 8.d4"]
 [Result "*"]
 
    1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Bc5 7.Nxe5 Nxe5 8.d4 *
 
 [ECO "C78j"]
-[Variation "Spanish: 5.O-O b5 6.Bb3 Bc5 7.c3"]
+[Variation "Spanish: Modern Arkhangelsk, 7.c3"]
 [Result "*"]
 
    1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Bc5 7.c3 *
 
 [ECO "C78j"]
-[Variation "Spanish: 5.O-O b5 6.Bb3 Bc5 7.c3 d6"]
+[Variation "Spanish: Modern Arkhangelsk, 7.c3 d6"]
 [Result "*"]
 
    1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Bc5 7.c3 d6 *
 
 [ECO "C78k"]
-[Variation "Spanish: 5.O-O b5 6.Bb3 Bc5 7.c3 d6 8.d4"]
+[Variation "Spanish: Modern Arkhangelsk, 7.c3 d6 8.d4"]
 [Result "*"]
 
    1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Bc5 7.c3 d6 8.d4 *
 
 [ECO "C78l"]
-[Variation "Spanish: 5.O-O b5 6.Bb3 Bc5 7.a4"]
+[Variation "Spanish: Modern Arkhangelsk, 7.a4"]
 [Result "*"]
 
    1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Bc5 7.a4 *
 
 [ECO "C78m"]
-[Variation "Spanish: 5.O-O b5 6.Bb3 Bc5 7.a4 Rb8"]
+[Variation "Spanish: Modern Arkhangelsk, 7.a4 Rb8"]
 [Result "*"]
 
    1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Bc5 7.a4 Rb8 *
 
 [ECO "C78n"]
-[Variation "Spanish: Archangelsk Variation"]
+[Variation "Spanish: Arkhangelsk Variation"]
 [Result "*"]
 
    1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Bb7 *
 
 [ECO "C78o"]
-[Variation "Spanish: Archangelsk, 7.d4"]
+[Variation "Spanish: Arkhangelsk, 7.d4"]
 [Result "*"]
 
    1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Bb7 7.d4 *
 
 [ECO "C78p"]
-[Variation "Spanish: Archangelsk, 7.d3"]
+[Variation "Spanish: Arkhangelsk, 7.d3"]
 [Result "*"]
 
    1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Bb7 7.d3 *
 
 [ECO "C78q"]
-[Variation "Spanish: Archangelsk, 7.d3 Be7"]
+[Variation "Spanish: Arkhangelsk, 7.d3 Be7"]
 [Result "*"]
 
    1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Bb7 7.d3 Be7 *
 
 [ECO "C78r"]
-[Variation "Spanish: Archangelsk, 7.c3"]
+[Variation "Spanish: Arkhangelsk, 7.c3"]
 [Result "*"]
 
    1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Bb7 7.c3 *
 
 [ECO "C78s"]
-[Variation "Spanish: Archangelsk, 7.c3 Nxe4"]
+[Variation "Spanish: Arkhangelsk, 7.c3 Nxe4"]
 [Result "*"]
 
    1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Bb7 7.c3 Nxe4 *
 
 [ECO "C78t"]
-[Variation "Spanish: Archangelsk, 7.Re1"]
+[Variation "Spanish: Arkhangelsk, 7.Re1"]
 [Result "*"]
 
    1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Bb7 7.Re1 *
 
 [ECO "C78t"]
-[Variation "Spanish: Archangelsk, 7.Re1 Bc5"]
+[Variation "Spanish: Arkhangelsk, 7.Re1 Bc5"]
 [Result "*"]
 
    1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Bb7 7.Re1 Bc5 *
 
 [ECO "C78u"]
-[Variation "Spanish: Archangelsk, 7.Re1 Bc5 8.c3 d6"]
+[Variation "Spanish: Arkhangelsk, 7.Re1 Bc5 8.c3 d6"]
 [Result "*"]
 
    1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Bb7 7.Re1 Bc5 8.c3 d6 *
 
 [ECO "C78u"]
-[Variation "Spanish: Archangelsk, Main Line"]
+[Variation "Spanish: Arkhangelsk, Main Line"]
 [Result "*"]
 
    1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Bb7 7.Re1 Bc5 8.c3 d6   9.d4 Bb6 *
 
 [ECO "C78v"]
-[Variation "Spanish: Archangelsk, Main Line, 10.a4"]
+[Variation "Spanish: Arkhangelsk, Main Line, 10.a4"]
 [Result "*"]
 
    1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Bb7 7.Re1 Bc5 8.c3 d6   9.d4 Bb6 10.a4 *
 
 [ECO "C78w"]
-[Variation "Spanish: Archangelsk, Main Line, 10.Bg5"]
+[Variation "Spanish: Arkhangelsk, Main Line, 10.Bg5"]
 [Result "*"]
 
    1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Bb7 7.Re1 Bc5 8.c3 d6   9.d4 Bb6 10.Bg5 *
 
 [ECO "C78x"]
-[Variation "Spanish: Archangelsk, Main Line, 10.Be3"]
+[Variation "Spanish: Arkhangelsk, Main Line, 10.Be3"]
 [Result "*"]
 
    1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Bb7 7.Re1 Bc5 8.c3 d6   9.d4 Bb6 10.Be3 *
@@ -62157,4 +62157,3 @@
 [Result "*"]
 
    1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nc6 8.d5 Ne7   9.Ne1 Nd7 10.f3 f5 11.g4 Nf6 12.Nd3 *
-

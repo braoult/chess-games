@@ -1,6 +1,6 @@
 [Event "Brittany Team Championship"]
-[Site "?"]
-[Date "1983.??.??"]
+[Site "Pontivy FRA"]
+[Date "1983.10.02"]
 [Round "1"]
 [White "Paillard"]
 [Black "Raoult, Bruno"]
@@ -9,17 +9,20 @@
 [BlackElo "1540"]
 [PlyCount "40"]
 [EventDate "1983.??.??"]
+[Annotator "Bruno Raoult, 1983"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 $6 {  noir   o-o} 5... Bc5 6.
-O-O {  6.c3 (  Bc2)} 6... b5 7. Bb3 d6 8. h3 $6 {  g3 (voir 15eme coup noir)}
-8... Be6 9. Bxe6 $6 9... fxe6 10. c3 O-O 11. b4 $6 11... Bb6 $17 {
-f2 g3,   blanche faible,   et   noirs.   d3-d4 rapidement...} 12. Bg5 12... Qe8
-{  sur o-o} 13. Nbd2 Qg6 14. Re1 $2 {  f2.} 14... Nh5 $1 15. g3 $4 15... Nxg3
-16. Kg2 Nh5 17. Kf1 17... Qxg5 $1 18. Nxg5 Rxf2+ 19. Kg1 Rxd2+ 20. Kf1 $2 (20.
-d4 {Le meilleur.} 20... Nxd4 $1 {  20... exd4?!, 21.Qxh5!  } 21. Qxd2 (21. Qxh5
-Nf5+ 22. Re3 {Sinon, 22... Ng3#} 22... Bxe3+ 23. Kf1 Ng3+ 24. Ke1 24... Nxh5
-$19) (21. Re3 Rxd1+ 22. Rxd1 22... Nc2 $19) (21. cxd4 Bxd4+ 22. Kf1 Ng3#) 21...
-Nf3+ 22. Kg2 22... Nxd2 $17) 20... Ng3# 0-1
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 $6 ({ The passive Anderssen Variation. I prefer the usual } 5. O-O ) 5... Bc5 6. O-O ({ or } 6.c3 { to prepare Bc2. })
+6... b5 7. Bb3 d6 8. h3 $6 { Lose a tempo and weakens g3 square (see 15th black move below). }
+8... Be6 $5 { In exchange of doubled pawns, black expect to get something on semi-opened f file. }
+9. Bxe6 fxe6 10. c3 O-O 11. b4 $2 11... Bb6 $15
+{ The two last white moves are weak, and black has now a good development edge, and some pressure on f2 pawn with the semi-opened f file and b6 bishop. }
+12. Bg5 Qe8 $1
+{ Moving to kingside } 13. Nbd2 Qg6 14. Re1 $2 { Seriously weakens f2 pawn, whose only defense left is now... white king ! } 14... Nh5 $1 { Trying to consolidate attack on kingside.} 15. g3 $4  ({ Blunder. } 15.Be3 { was probably the only move here. }) 15... Nxg3 16. Kg2 Nh5 17. Kf1 Qxg5 $3 $19 { My first queen sacrifice in competition, hopefully not the last one ! }
+18. Nxg5 Rxf2+ 19. Kg1 Rxd2+ 20. Kf1 $2
+({ Or} 20. d4 Nxd4 21.Qxd2
+(21. Qxh5 Nf5+ 22. Re3 {Otherwise 22... Ng3#} 22... Bxe3+ 23. Kf1 Ng3+ 24. Ke1 Nxh5 $19)
+(21. Re3 Rxd1+ 22. Rxd1 22... Nc2 $19)
+(21. cxd4 Bxd4+ 22. Kf1 Ng3#) 21... Nf3+ 22. Kg2 Nxd2 $17) 20... Ng3# 0-1
 
 [Event "Brittany Team Championship"]
 [Site "?"]
