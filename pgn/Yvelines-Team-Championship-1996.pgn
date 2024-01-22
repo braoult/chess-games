@@ -1,5 +1,5 @@
 [Event "Yvelines Team Championship"]
-[Site "?"]
+[Site "Conflans-Sainte-Honorine FRA"]
 [Date "1996.??.??"]
 [Round "1"]
 [White "Raoult, Bruno"]
@@ -9,8 +9,11 @@
 [BlackElo "1740"]
 [ECO "B09"]
 [Opening "Pirc: Austrian, 5...c5"]
+[TimeControl "40/7200:20/3600:3600"]
 [EventDate "1996.??.??"]
 [PlyCount "43"]
+[WhiteTeam "Conflans-Sainte-Honorine"]
+[BlackTeam "Chambourcy"]
 
 1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 c5 6. e5 dxe5 7. dxe5 Qxd1+
 8. Nxd1 Nd5 9. Bc4 e6 10. Bxd5 exd5 11. Nc3 d4 12. Nb5 Na6 13. Nd6+ Ke7 14.
@@ -28,6 +31,7 @@ Nxf5+ Kf8 21. Nd6 Nd5 22. Nxe6+ 1-0
 [BlackElo "1780"]
 [ECO "C40"]
 [Opening "Latvian Gambit: 3.Nxe5 Qf6 4.d4 d6 5.Nc4 fxe4 6.Nc3"]
+[TimeControl "40/7200:20/3600:3600"]
 [EventDate "1996.??.??"]
 [PlyCount "89"]
 
@@ -51,6 +55,7 @@ Nxd3+ 31. cxd3 Ke7 32. Ke5 h6 33. b4 a6 34. g4 g5 35. a4 Kd7 36. b5 axb5
 [BlackElo "1780"]
 [ECO "C02"]
 [Opening "French: Advance, 4.Nf3"]
+[TimeControl "40/7200:20/3600:3600"]
 [EventDate "1996.??.??"]
 [PlyCount "93"]
 
@@ -74,6 +79,7 @@ Bc1 45. Ne6 Re7 46. Nd8 Bxb2 47. Nf7+ 1-0
 [BlackElo "1840"]
 [ECO "C68"]
 [Opening "Spanish: Exchange, Alapin Gambit"]
+[TimeControl "40/7200:20/3600:3600"]
 [EventDate "1996.??.??"]
 [PlyCount "102"]
 
@@ -98,6 +104,7 @@ Bc3 33. Ra4 Kxf5 34. Bd4 Bd2 35. c4 Ne3 36. Ra2 Bb4 37. g3 c5 38. Ba1 Nf1
 [BlackElo "1890"]
 [ECO "A03"]
 [Opening "Bird: 1...d5 2.b3"]
+[TimeControl "40/7200:20/3600:3600"]
 [EventDate "1996.??.??"]
 [PlyCount "39"]
 
@@ -117,6 +124,7 @@ Qe2 1/2-1/2
 [BlackElo "1450"]
 [ECO "C65"]
 [Opening "Spanish: Berlin Defence"]
+[TimeControl "40/7200:20/3600:3600"]
 [EventDate "1996.??.??"]
 [PlyCount "61"]
 
@@ -137,6 +145,7 @@ bxa5 27. Ra1 c5 28. Rxa5 Nf4+ 29. gxf4 exf4 30. Bxc5 f3+ 31. Kf1 1-0
 [BlackElo "1890"]
 [ECO "C82"]
 [Opening "Spanish: Open, St. Petersburg Variation"]
+[TimeControl "40/7200:20/3600:3600"]
 [EventDate "1996.??.??"]
 [PlyCount "47"]
 

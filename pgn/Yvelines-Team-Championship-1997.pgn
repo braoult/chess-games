@@ -9,6 +9,7 @@
 [BlackElo "1900"]
 [ECO "A31"]
 [Opening "English: Symmetrical, Two Knights, 4...g6"]
+[TimeControl "40/7200:20/3600:3600"]
 [EventDate "1997.??.??"]
 [PlyCount "44"]
 
@@ -28,6 +29,7 @@ Rxc3 bxc3 21. Rxb7 Rab8 22. Rxb8 Rxb8 0-1
 [BlackElo "1900"]
 [ECO "C44"]
 [Opening "Open Game: Inverted Philidor, 4.Be2"]
+[TimeControl "40/7200:20/3600:3600"]
 [EventDate "1997.??.??"]
 [PlyCount "52"]
 

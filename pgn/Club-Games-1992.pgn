@@ -1,5 +1,5 @@
 [Event "Conflans Club"]
-[Site "Conflans Ste Honorine FRA"]
+[Site "Conflans-Sainte-Honorine FRA"]
 [Date "1992.??.??"]
 [Round "?"]
 [White "Raoult, Bruno"]
@@ -20,7 +20,7 @@ Nxe5 32. fxe5 Kxe5 33. Ke3 f4+ 34. Kd3 g5 35. Kc3 h5 36. Kd3 g4 37. Ke2 Kd4
 Ke2 1/2-1/2
 
 [Event "Conflans Club"]
-[Site "Conflans Ste Honorine FRA"]
+[Site "Conflans-Sainte-Honorine FRA"]
 [Date "1991.??.??"]
 [Round "?"]
 [White "Raoult, Bruno"]
@@ -37,7 +37,7 @@ Rxe5 14. Nxb7 Qxd1 15. Rxd1 Bc2 16. Bf4 Rb5 17. Rd8+ Rxd8 18. Nxd8 Be4 19.
 Re1 1-0
 
 [Event "Conflans Club"]
-[Site "Conflans Ste Honorine FRA"]
+[Site "Conflans-Sainte-Honorine FRA"]
 [Date "1992.??.??"]
 [Round "?"]
 [White "Valentin, Alain"]
@@ -55,7 +55,7 @@ Nf6 15. Ng5 Nxg4 16. Nxf7 Kxf7 17. f5 Kg7 18. fxg6 hxg6 19. Rf7+ Kxf7 20.
 Bxg4 Kg7 21. Qf3 Na6 22. Be6 Qf8 23. Qh3 Qh8 1/2-1/2
 
 [Event "Conflans Club"]
-[Site "Conflans Ste Honorine FRA"]
+[Site "Conflans-Sainte-Honorine FRA"]
 [Date "1991.??.??"]
 [Round "?"]
 [White "Arino, F."]
@@ -68,14 +68,51 @@ Bxg4 Kg7 21. Qf3 Na6 22. Be6 Qf8 23. Qh3 Qh8 1/2-1/2
 [PlyCount "61"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
-dxe5 Be6 9. Qe2 Na5 10. c3 Nxb3 11. axb3 Bc5 $2 { 11... Qd7 protegeait le
-pion b5 } 12. Rxa6 $1 O-O 13. Rxa8 Qxa8 14. Nd4 Qa2 15. Be3 Bxd4 16. cxd4
-f6 17. f3 Ng5 18. Bxg5 fxg5 19. b4 Bf5 20. Nc3 Qb3 21. Qxb5 Qxb2 22. Qxd5+
-Kh8 23. Ne4 Qxb4 24. Qc5 Qb8 25. Nc3 Rd8 26. d5 Bc2 27. e6 Kg8 28. e7 Re8
-29. Re1 Kf7 30. Nb5 Bf5 31. Nxc7 1-0
+dxe5 Be6 9. Qe2 { Le systeme Keres. L'idee de base pour les blancs est
+d'effectuer une pression sur la colonne d, avec comme une des variantes
+possibles le coup c2-c4, qui attaque la case d5. } 9... Na5 $6 { Douteux.
+Les noirs ecoutent le principe "garder la paire de fous", sans voir que
+l'affaiblissement critique de la colonne A est une compensation tres
+suffisante pour les blancs. } (9... Bc5 10. Be3 (10. Nbd2 Nxd2 11. Bxd2 O-O
+12. Rad1 Bg4 13. Be3 d4 14. h3 Bh5 15. g4 Bg6 { Selon Keres, le jeu est a
+double tranchant. }) 10... O-O (10... Bg4 $5 11. Rd1 Ne7 12. c3 c6 13. Bc2
+Qc7 { Et la defense noire devrait pouvoir tenir. Ivanov-Aseev, URSS 1983. }
+) 11. Rd1 Bxe3 (11... d4 $5 12. Nc3 $1 Nxc3 13. bxc3 dxe3 14. Rxd8 exf2+
+15. Kf1 Raxd8 16. Bxe6 fxe6 17. Ng5 { Et les blancs gardent l'initiative.
+Antunes-Flear, Pau 1988. }) 12. Qxe3 Ne7 13. Nbd2 Nf5 14. Qe2 Nc5 15. c3 {
+Avec un jeu a peu pres egal. Sokolov-Karaklajic, Sarajevo 1958. }) (9...
+Nc5 10. Rd1 Nxb3 $6 11. axb3 Qc8 12. c4 $1 Nb4 13. cxb5 axb5 14. Rxa8 Qxa8
+15. Bd2 c6 16. Nd4 Na6 17. b4 $1 { Avec une forte pression des blancs. }) (
+9... Be7 { La continuation principale. Les noirs achevent tout simplement
+leur developpement. } 10. Rd1 (10. c4 $6 bxc4 (10... Nc5 { Larsen propose
+cette suite. } 11. cxd5 Bxd5 12. Rd1 Nxb3 13. axb3 O-O 14. Nc3 Bxf3 15.
+gxf3 Qc8 16. Nd5 Bd8) 11. Ba4 Bd7 12. Nc3 Nc5 13. e6 fxe6 14. Bxc6 Bxc6 15.
+Ne5 Qd6 16. Qh5+ g6 17. Nxg6 hxg6 18. Qxh8+ Kd7 19. Qg7 d4 { Et l'attaque
+noire semble meilleure. }) 10... O-O (10... Nc5 { La suite la plus solide.
+} 11. Bxd5 (11. c4 d4 $5 { Ce coup est recommande par Keres. } 12. cxb5
+Nxb3 13. axb3 { Et les noirs devraient encore tenir la position. }) 11...
+Bxd5 12. Nc3 Bc4 13. Rxd8+ Rxd8 14. Qe3 b4 15. b3 Be6 16. Ne4 Rd1+ 17. Ne1
+Nd4 18. Bb2 Nxc2 19. Qe2 Rxa1 20. Bxa1 Nxa1 21. Nxc5 Bxc5 22. Nd3 Bb6 23.
+Nxb4 O-O 24. Nc6 f6 25. h4 fxe5 26. Qxe5 Rf6 27. Nd4 Bf7 28. Nf3 Nc2 29.
+Qe4 Bg6 30. Qd5+ Kf8 $1 { Suetine-Youssoupov, URSS 1958. La position semble
+a peu pres equilibree. }) 11. c4 { Possible est aussi 11.Be3 } 11... bxc4
+12. Bxc4 Bc5 13. Be3 Bxe3 14. Qxe3 Rb8 15. Bb3 Na5 { Et les noirs devraient
+tenir la position. }) 10. c3 (10. Rd1 Bc5 11. Be3 Bxe3 12. Qxe3 c5 13. c3
+O-O 14. Ne1 $1 { Et les blancs sont mieux (menace tactique f2-f3 attaquant
+le pion c5) }) 10... Nxb3 $2 (10... Bc5 { C'est encore le meilleur coup
+dans cette position. Les noirs ne doivent surtout pas echanger en b3. })
+11. axb3 Bc5 $2 { 11... Qd7 protegeait le pion b5 } 12. Rxa6 $1 { Une
+pointe tactique qui m'avait totalement echappé. La partie est terminee. }
+12... O-O { Ou 12... Rb8, evitant les echanges, mais la position noire
+reste desesperee. } 13. Rxa8 Qxa8 14. Nd4 Qa2 { "Mon aile gauche est
+enfoncee, mon centre flanche, la situation est excellente: J'attaque!" -
+Gal Foch, 1914 } 15. Be3 Bxd4 16. cxd4 { Menacant f2-f3, qui gagne le
+cavalier. } 16... f6 17. f3 Ng5 18. Bxg5 fxg5 19. b4 Bf5 20. Nc3 Qb3 21.
+Qxb5 Qxb2 22. Qxd5+ Kh8 23. Ne4 Qxb4 24. Qc5 Qb8 25. Nc3 Rd8 26. d5 Bc2 27.
+e6 Kg8 28. e7 Re8 29. Re1 Kf7 30. Nb5 Bf5 31. Nxc7 1-0
 
 [Event "Conflans Club"]
-[Site "Conflans Ste Honorine FRA"]
+[Site "Conflans-Sainte-Honorine FRA"]
 [Date "1992.??.??"]
 [Round "?"]
 [White "Thievon, J."]
@@ -99,7 +136,7 @@ Ng3+ 56. Kh2 Ne4 57. Rh3 Nf2 58. Rh8 Ne4 59. Rg8+ Ng5 60. Rg7 Kf5 61. Kg1
 Ke4 62. Rxg5 1-0
 
 [Event "Conflans Club"]
-[Site "Conflans Ste Honorine FRA"]
+[Site "Conflans-Sainte-Honorine FRA"]
 [Date "1992.??.??"]
 [Round "?"]
 [White "Raoult, Bruno"]
@@ -114,7 +151,7 @@ Ke4 62. Rxg5 1-0
 Bf5 8. d3 Bc5 9. dxe4 Qc8 10. exf5 Qxf5 11. Ng6+ Be7 12. Rxe7# 1-0
 
 [Event "Conflans Club"]
-[Site "Conflans Ste Honorine FRA"]
+[Site "Conflans-Sainte-Honorine FRA"]
 [Date "1992.??.??"]
 [Round "?"]
 [White "Valentin, Alain"]

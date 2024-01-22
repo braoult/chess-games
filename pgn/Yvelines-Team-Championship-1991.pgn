@@ -1,7 +1,7 @@
 [Event "Yvelines Team Championship"]
-[Site "?"]
+[Site "Saint-Quentin-en-Yvelines FRA"]
 [Date "1991.??.??"]
-[Round "1"]
+[Round "2"]
 [White "Raoult, Bruno"]
 [Black "Birebent, G."]
 [Result "1/2-1/2"]
@@ -9,8 +9,12 @@
 [BlackElo "1720"]
 [ECO "B20"]
 [Opening "Sicilian: Snyder, 2...Nc6"]
+[TimeControl "40/7200:20/3600:3600"]
 [EventDate "1991.??.??"]
 [PlyCount "122"]
+[WhiteTeam "Conflans-Sainte-Honorine"]
+[BlackTeam "Saint-Quentin-en-Yvelines"]
+[Seat "1"]
 
 1. e4 c5 2. b3 Nc6 3. Bb2 d6 4. f4 e5 5. fxe5 Qh4+ 6. g3 Qxe4+ 7. Qe2 Qxe2+
 8. Nxe2 Nxe5 9. Bg2 Rb8 10. Nbc3 Be6 11. Nb5 a6 12. Nc7+ Kd7 13. Nd5 Bxd5
@@ -26,7 +30,7 @@ Rd7 Rg1 $18 { Nulle, sur ma proposition! (pour arriver a temps a un tournoi
 semi-rapide). } 1/2-1/2
 
 [Event "Yvelines Team Championship"]
-[Site "?"]
+[Site "Conflans-Sainte-Honorine FRA"]
 [Date "1991.??.??"]
 [Round "3"]
 [White "Raoult, Bruno"]
@@ -35,8 +39,12 @@ semi-rapide). } 1/2-1/2
 [WhiteElo "1730"]
 [ECO "C42"]
 [Opening "Russian Game: 3.Nxe5"]
+[TimeControl "40/7200:20/3600:3600"]
 [EventDate "1991.??.??"]
 [PlyCount "69"]
+[WhiteTeam "Conflans-Sainte-Honorine"]
+[BlackTeam "Cernay"]
+[Seat "2"]
 
 1. e4 e5 2. Nf3 Nf6 3. Nxe5 Nc6 4. Nxc6 dxc6 5. Nc3 Bc5 6. Be2 Qd4 7. O-O
 Nxe4 8. Nxe4 Qxe4 9. d3 Qd5 10. Re1 O-O 11. Bf3 Qf5 12. d4 Bd6 13. Be4 Qg4
@@ -46,7 +54,7 @@ hxg3 Kh7 27. Bxf8 Bh3 28. R1e4 Bg4 29. Bd6 Bf3 30. Rh4+ Bh5 31. Bxc6 Qb1+
 32. Kg2 Kh6 33. Be4 Qxb2 34. Rh8+ Kg5 35. R4xh5+ 1-0
 
 [Event "Yvelines Team Championship"]
-[Site "?"]
+[Site "Le Chesnay FRA"]
 [Date "1992.??.??"]
 [Round "4"]
 [White "Poirier, M."]
@@ -56,8 +64,12 @@ hxg3 Kh7 27. Bxf8 Bh3 28. R1e4 Bg4 29. Bd6 Bf3 30. Rh4+ Bh5 31. Bxc6 Qb1+
 [BlackElo "1730"]
 [ECO "C80"]
 [Opening "Spanish: Open, 6.Re1"]
+[TimeControl "40/7200:20/3600:3600"]
 [EventDate "1991.??.??"]
 [PlyCount "114"]
+[WhiteTeam "Le Chesnay"]
+[BlackTeam "Conflans-Sainte-Honorine"]
+[Seat "2"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. Re1 b5 7. Rxe4 bxa4
 8. Nxe5 Nxe5 9. Rxe5+ Be7 10. Qe1 d6 11. Re2 Be6 12. d4 d5 13. Nc3 Bf6 14.
@@ -73,7 +85,7 @@ Aurait permis d'annuler! } 52... gxf5+ 53. Kxf5 c4 54. h5 c3 55. g6 hxg6+
 Ke3 c2 56. hxg6 hxg6 57. f5 c1=Q+ 0-1
 
 [Event "Yvelines Team Championship"]
-[Site "?"]
+[Site "Conflans-Sainte-Honorine FRA"]
 [Date "1992.??.??"]
 [Round "6"]
 [White "Des Forts, P."]
@@ -82,8 +94,12 @@ Ke3 c2 56. hxg6 hxg6 57. f5 c1=Q+ 0-1
 [BlackElo "1730"]
 [ECO "A70"]
 [Opening "Benoni: Classical, 7...Bg7"]
+[TimeControl "40/7200:20/3600:3600"]
 [EventDate "1991.??.??"]
 [PlyCount "57"]
+[WhiteTeam "Rambouillet"]
+[BlackTeam "Conflans-Sainte-Honorine"]
+[Seat "1"]
 
 1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8.
 Bb5+ Nbd7 $6 { 8. ... Bd7 } 9. O-O O-O 10. Bf4 Qc7 $2 { Tres mauvais: 10.
@@ -93,7 +109,7 @@ Nxa8 Bxc6 21. dxc6 Rxa8 22. Bc4 Be5 23. Nxe5 dxe5 24. Qd5 Nf4 25. Bxf4 exf4
 26. Rd1 Qe6 27. Qxe6 Nxe6 28. Bxe6 fxe6 29. c7 1-0
 
 [Event "Yvelines Team Championship"]
-[Site "?"]
+[Site "Rambouillet FRA"]
 [Date "1992.??.??"]
 [Round "7"]
 [White "Raoult, Bruno"]
@@ -102,8 +118,12 @@ Nxa8 Bxc6 21. dxc6 Rxa8 22. Bc4 Be5 23. Nxe5 dxe5 24. Qd5 Nf4 25. Bxf4 exf4
 [WhiteElo "1730"]
 [ECO "B09"]
 [Opening "Pirc: Austrian, 5...c5"]
+[TimeControl "40/7200:20/3600:3600"]
 [EventDate "1991.??.??"]
 [PlyCount "79"]
+[WhiteTeam "Conflans-Sainte-Honorine"]
+[BlackTeam "Rambouillet C"]
+[Seat "1"]
 
 1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 c5 6. e5 dxe5 7. dxe5 Qxd1+
 8. Nxd1 Ng4 9. Bb5+ Bd7 10. Nc3 Bxb5 11. Nxb5 Na6 12. h3 Nh6 13. Bd2 O-O

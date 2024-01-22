@@ -9,6 +9,7 @@
 [BlackElo "1780"]
 [ECO "B02"]
 [Opening "Alekhine: Scandinavian, Exchange, 4.Bc4"]
+[TimeControl "1800"]
 [EventDate "1994.??.??"]
 [PlyCount "45"]
 
@@ -28,6 +29,7 @@ Nxf8 Rxf8 21. Rad1 e5 22. Re2 Re8 23. c3 1-0
 [BlackElo "1870"]
 [ECO "A13"]
 [Opening "English: 1...e6 2.Nc3"]
+[TimeControl "1800"]
 [EventDate "1994.??.??"]
 [PlyCount "44"]
 

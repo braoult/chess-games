@@ -1,5 +1,5 @@
 [Event "Yvelines Team Championship"]
-[Site "?"]
+[Site "Maisons-Laffite FRA"]
 [Date "1993.??.??"]
 [Round "3"]
 [White "Raoult, Bruno"]
@@ -8,8 +8,12 @@
 [WhiteElo "1780"]
 [ECO "B14"]
 [Opening "Caro-Kann: Panov-Botvinnik, 5...e6"]
+[TimeControl "40/7200:20/3600:3600"]
 [EventDate "1993.??.??"]
 [PlyCount "133"]
+[WhiteTeam "Conflans-Sainte-Honorine"]
+[BlackTeam "Maisons-Laffite"]
+[Seat "1"]
 
 1. e4 { elo 1500 } 1... c6 2. d4 d5 3. exd5 cxd5 4. c4 e6 5. Nc3 Nf6 6. Bg5
 Be7 7. Nf3 Nbd7 8. c5 a6 9. Bd3 Nb8 10. O-O Nc6 11. Na4 Nd7 12. Bf4 O-O 13.
@@ -25,7 +29,7 @@ Kd6 62. Rxf7 Kd5 63. Re7 Kd4 64. Kxg6 Bb3 65. Kxh5 Bd1+ 66. Kg5 Bf3 67. h5
 1-0
 
 [Event "Yvelines Team Championship"]
-[Site "?"]
+[Site "Conflans-Sainte-Honorine FRA"]
 [Date "1994.??.??"]
 [Round "5"]
 [White "Raoult, Bruno"]
@@ -35,8 +39,12 @@ Kd6 62. Rxf7 Kd5 63. Re7 Kd4 64. Kxg6 Bb3 65. Kxh5 Bd1+ 66. Kg5 Bf3 67. h5
 [BlackElo "1690"]
 [ECO "B09"]
 [Opening "Pirc: Austrian, 5...O-O 6.Be2"]
+[TimeControl "40/7200:20/3600:3600"]
 [EventDate "1993.??.??"]
 [PlyCount "101"]
+[WhiteTeam "Conflans-Sainte-Honorine"]
+[BlackTeam "Le Chesnay B"]
+[Seat "1"]
 
 1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Be2 c6 7. O-O b5 8. e5
 dxe5 9. dxe5 Nd5 10. Nxd5 cxd5 11. Be3 a6 12. Nd4 e6 13. c3 Bb7 14. a4 bxa4
@@ -49,7 +57,7 @@ Be7 46. Kb3 Bg5 47. Ka4 Bd2 48. Bc5 Be1 49. Bb4 Bf2 50. Ka5 Bd4 51. Bd6+
 1-0
 
 [Event "Yvelines Team Championship"]
-[Site "?"]
+[Site "Saint-Germain-en-Laye FRA"]
 [Date "1994.??.??"]
 [Round "6"]
 [White "Paris, JP."]
@@ -58,8 +66,12 @@ Be7 46. Kb3 Bg5 47. Ka4 Bd2 48. Bc5 Be1 49. Bb4 Bf2 50. Ka5 Bd4 51. Bd6+
 [BlackElo "1780"]
 [ECO "C82"]
 [Opening "Spanish: Open, Italian Variation"]
+[TimeControl "40/7200:20/3600:3600"]
 [EventDate "1993.??.??"]
 [PlyCount "36"]
+[WhiteTeam "Saint-Germain-en-Laye B"]
+[BlackTeam "Conflans-Sainte-Honorine"]
+[Seat "1"]
 
 1. e4 { Elo 1500 } 1... e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6.
 d4 b5 7. Bb3 d5 8. dxe5 Be6 9. c3 Bc5 10. Bf4 O-O 11. Nd4 Bxd4 12. cxd4 f6
@@ -67,7 +79,7 @@ d4 b5 7. Bb3 d5 8. dxe5 Be6 9. c3 Bc5 10. Bf4 O-O 11. Nd4 Bxd4 12. cxd4 f6
 0-1
 
 [Event "Yvelines Team Championship"]
-[Site "?"]
+[Site "Conflans-Sainte-Honorine FRA"]
 [Date "1994.??.??"]
 [Round "7"]
 [White "Imbert, C."]
@@ -77,8 +89,12 @@ d4 b5 7. Bb3 d5 8. dxe5 Be6 9. c3 Bc5 10. Bf4 O-O 11. Nd4 Bxd4 12. cxd4 f6
 [BlackElo "1780"]
 [ECO "C82"]
 [Opening "Spanish: Open, St. Petersburg Variation"]
+[TimeControl "40/7200:20/3600:3600"]
 [EventDate "1993.??.??"]
 [PlyCount "55"]
+[WhiteTeam "Saint-Germain-en-Laye A"]
+[BlackTeam "Conflans-Sainte-Honorine"]
+[Seat "1"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
 dxe5 Be6 9. c3 Bc5 10. Nbd2 Nxf2 11. Rxf2 O-O 12. Nf1 Bxf2+ 13. Kxf2 f6 14.

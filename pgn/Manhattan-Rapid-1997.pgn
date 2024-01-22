@@ -9,6 +9,7 @@
 [BlackElo "1900"]
 [ECO "D02"]
 [Opening "Queen's Pawn: 3.g3 g6"]
+[TimeControl "1800"]
 [EventDate "1997.10.19"]
 [PlyCount "89"]
 
@@ -32,6 +33,7 @@ Rd8 45. R6xe3+ 1-0
 [BlackElo "1310"]
 [ECO "B06"]
 [Opening "Modern"]
+[TimeControl "1800"]
 [EventDate "1997.10.19"]
 [PlyCount "113"]
 
@@ -57,6 +59,7 @@ Rh6 38. h4 Kf8 39. Nh3 Rg6+ 40. Ng5 Kg8 41. Kg4 Rh6 42. h5 Kf8 43. Kh4 Rh8
 [BlackElo "1900"]
 [ECO "A57"]
 [Opening "Benko Gambit: 4.Nf3 g6 5.cxb5 a6"]
+[TimeControl "1800"]
 [EventDate "1997.10.19"]
 [PlyCount "72"]
 
@@ -78,6 +81,7 @@ $2 Bd4+ 32. Bf2 Bxc5 33. Bxc5 Rc7 34. Bd4 Rd3 35. Bf6 c3 36. Re1 Rc8 0-1
 [BlackElo "1900"]
 [ECO "C54"]
 [Opening "Giuoco Pianissimo: 5.d3"]
+[TimeControl "1800"]
 [EventDate "1997.10.19"]
 [PlyCount "120"]
 

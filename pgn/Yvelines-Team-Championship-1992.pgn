@@ -9,17 +9,16 @@
 [BlackElo "1730"]
 [ECO "A02"]
 [Opening "Bird: 1..g6"]
+[TimeControl "40/7200:20/3600:3600"]
 [EventDate "1992.??.??"]
 [PlyCount "28"]
-
-{ 1/2 }
 
 1. f4 g6 2. Nf3 c5 3. e3 Bg7 4. d4 cxd4 5. exd4 Nf6 6. c3 O-O 7. Bd3 e6 8.
 O-O d5 9. Qe1 b6 10. Qg3 Nc6 11. Nbd2 Nh5 12. Qh4 Bf6 13. Qg4 e5 14. Bf5
 Bxf5 0-1
 
 [Event "Yvelines Team Championship"]
-[Site "?"]
+[Site "Le Chesnay FRA"]
 [Date "1992.??.??"]
 [Round "2"]
 [White "Raoult, Bruno"]
@@ -29,8 +28,12 @@ Bxf5 0-1
 [BlackElo "1670"]
 [ECO "C02"]
 [Opening "French: Advance, 3...c5"]
+[TimeControl "40/7200:20/3600:3600"]
 [EventDate "1992.??.??"]
 [PlyCount "99"]
+[WhiteTeam "Conflans-Sainte-Honorine"]
+[BlackTeam "Le Chesnay"]
+[Seat "3"]
 
 1. e4 e6 2. d4 d5 3. e5 c5 4. f4 cxd4 5. Qxd4 Nc6 6. Qd1 Bc5 7. Bd3 Qb6 8.
 Nh3 Nge7 9. Nd2 Qc7 10. Nb3 Bb6 11. c3 Bd7 12. Qe2 O-O-O 13. Ng5 Be8 14.
@@ -43,7 +46,7 @@ Bxg2 38. Rg1 Bf3+ 39. Ke3 Bh5 40. d5 Rf3+ 41. Kd4 b6 42. Ne4 Rf4 43. e6 g5
 Rd1 1-0
 
 [Event "Yvelines Team Championship"]
-[Site "?"]
+[Site "Saint-Germain-en-Laye FRA"]
 [Date "1993.??.??"]
 [Round "4"]
 [White "Raoult, Bruno"]
@@ -52,8 +55,12 @@ Rd1 1-0
 [WhiteElo "1690"]
 [ECO "B09"]
 [Opening "Pirc: Austrian, 5...c5"]
+[TimeControl "40/7200:20/3600:3600"]
 [EventDate "1992.??.??"]
 [PlyCount "41"]
+[WhiteTeam "Conflans-Sainte-Honorine"]
+[BlackTeam "Saint-Germain-en-Laye"]
+[Seat "3"]
 
 1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 c5 6. e5 Nfd7 7. exd6 O-O 8.
 dxe7 Qxe7+ 9. Qe2 Re8 10. Qxe7 Rxe7+ 11. Kf2 cxd4 12. Nd5 Re6 13. Nc7 Rc6
@@ -61,9 +68,9 @@ dxe7 Qxe7+ 9. Qe2 Re8 10. Qxe7 Rxe7+ 11. Kf2 cxd4 12. Nd5 Re6 13. Nc7 Rc6
 bxa6 20. Bd2 Bb7 21. Rc1 1-0
 
 [Event "Yvelines Team Championship"]
-[Site "?"]
+[Site "Conflans-Sainte-Honorine FRA"]
 [Date "1993.??.??"]
-[Round "7"]
+[Round "8"]
 [White "Forte, P."]
 [Black "Raoult, Bruno"]
 [Result "0-1"]
@@ -71,8 +78,12 @@ bxa6 20. Bd2 Bb7 21. Rc1 1-0
 [BlackElo "1690"]
 [ECO "C52"]
 [Opening "Evans Gambit: 5...Ba5 6.O-O Nf6"]
+[TimeControl "40/7200:20/3600:3600"]
 [EventDate "1992.??.??"]
 [PlyCount "112"]
+[WhiteTeam "Saint-Germain-en-Laye"]
+[BlackTeam "Conflans-Sainte-Honorine"]
+[Seat "2"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. O-O Nf6 7. d4 Nxe4
 8. dxe5 O-O 9. Qc2 d5 10. exd6 Nxd6 11. Bd3 g6 12. Bh6 Re8 13. Bg5 Ne7 14.

@@ -1,14 +1,15 @@
 [Event "Yvelines Championship"]
-[Site "Conflans Ste Honorine FRA"]
+[Site "Conflans-Sainte-Honorine FRA"]
 [Date "1997.02.07"]
 [Round "1"]
 [White "Raoult, Bruno"]
 [Black "Lebas, F."]
+[TimeControl "40/7200:20/3600:3600"]
 [Result "1-0"]
 [ECO "C68"]
 [WhiteElo "1890"]
 [BlackElo "1540"]
-[Annotator "Raoult/Fritz 4"]
+[Annotator "Raoult+Fritz 4, 1997"]
 [PlyCount "115"]
 [EventDate "1997.??.??"]
 
@@ -29,16 +30,17 @@ Re4+ Kd6 49. Re7 Rf2 50. Rxf7 Rxc2 51. Rb7 Kc6 52. Ra7 Rf2 53. Kg7 Rg2 54. g6
 a5 55. f7 Rf2 56. f8=Q Rxf8 57. Kxf8 Kb5 58. g7 1-0
 
 [Event "Yvelines Championship"]
-[Site "Conflans Ste Honorine FRA"]
+[Site "Conflans-Sainte-Honorine FRA"]
 [Date "1997.02.08"]
 [Round "2"]
 [White "Pouzin, O."]
 [Black "Raoult, Bruno"]
+[TimeControl "40/7200:20/3600:3600"]
 [Result "0-1"]
 [ECO "C34"]
 [WhiteElo "1670"]
 [BlackElo "1890"]
-[Annotator "Raoult/Fritz 4"]
+[Annotator "Raoult+Fritz 4, 1997"]
 [PlyCount "62"]
 [EventDate "1997.??.??"]
 
@@ -46,8 +48,8 @@ a5 55. f7 Rf2 56. f8=Q Rxf8 57. Kxf8 Kb5 58. g7 1-0
 d5 9. Bd3 Bg7 10. c3 O-O 11. Nd2 Re8 12. Ne2 Bf5 13. Qc2 Nd7 14. O-O-O Nf2 15.
 Bxf5 Nxh1 16. Bxh7+ Kh8 17. Rxh1 Rxe2 18. Bd3 Rxg2 19. Qd1 19... g3 $6 (19...
 c5 $5 {Etait moins risque} 20. Qf1 Rxd2 21. Bxd2 21... cxd4 $14 22. Qf5 Nf6 23.
-Bg5 Kg8 24. Rf1 24... g3 $15) 20. Qh5+ Kg8 21. Qh7+ Kf8 22. Qh5 $10 ({
-Peut-etre fallait-il tenter} 22. Bh6 22... Qf6 23. Qh8+ Ke7 24. Re1+ (24. Qxg7
+Bg5 Kg8 24. Rf1 24... g3 $15) 20. Qh5+ Kg8 21. Qh7+ Kf8 22. Qh5 $10 (22. Bh6 {
+aurait-peut-être pu être tenté:} 22... Qf6 23. Qh8+ Ke7 24. Re1+ (24. Qxg7
 $6 24... Qxg7 25. Bxg7 25... Rg8 $13) (24. Qxa8 $2 24... Bxh6 $19) 24... Kd6
 25. Qxg7 (25. Qxa8 $2 25... Bxh6 $19) 25... Qxg7 26. Bxg7 Rg8 27. Bh6 $16)
 22... Qf6 $2 $16 (22... Nb6 $5 $10) 23. Qg4 $2 $17 {
@@ -60,11 +62,12 @@ g2 28. Qf2 $17 (28. Bf5 $5 28... Qd6 29. Rxg2 Rxg2 30. Qxg2 30... Re8 $17)
 33. Bxd7 $19) 29... Qe3 30. Qxe3 Rxe3 31. Nb1 Rg3 (31... Re1 $1) 0-1
 
 [Event "Yvelines Championship"]
-[Site "Conflans Ste Honorine FRA"]
+[Site "Conflans-Sainte-Honorine FRA"]
 [Date "1997.02.14"]
 [Round "3"]
 [White "Raoult, Bruno"]
 [Black "Bauget, P."]
+[TimeControl "40/7200:20/3600:3600"]
 [Result "0-1"]
 [ECO "B03"]
 [WhiteElo "1890"]
@@ -79,11 +82,12 @@ bxc6 15. Nc3 Re8 16. Qd3 d5 17. Rf3 Re6 18. Raf1 Qe7 19. Rh3 h6 20. Rff3 Re8
 Rxe3 27. Rf5 Re4 0-1
 
 [Event "Yvelines Championship"]
-[Site "Conflans Ste Honorine FRA"]
+[Site "Conflans-Sainte-Honorine FRA"]
 [Date "1997.02.15"]
 [Round "4"]
 [White "Mathieu, Roger"]
 [Black "Raoult, Bruno"]
+[TimeControl "40/7200:20/3600:3600"]
 [Result "0-1"]
 [ECO "A57"]
 [WhiteElo "1500"]
@@ -99,11 +103,12 @@ Qe2 Ra2 23. Red1 h6 24. h3 Rba8 25. Rb3 Rc2 26. Qe3 Bd4 27. Qe1 Raa2 28. Rf3 g4
 0-1
 
 [Event "Yvelines Championship"]
-[Site "Conflans Ste Honorine FRA"]
+[Site "Conflans-Sainte-Honorine FRA"]
 [Date "1997.02.15"]
 [Round "5"]
 [White "Raoult, Bruno"]
 [Black "Marechal, C."]
+[TimeControl "40/7200:20/3600:3600"]
 [Result "0-1"]
 [ECO "B50"]
 [WhiteElo "1890"]
@@ -118,11 +123,12 @@ Rxc3 22. dxc3 Nxe4 23. Kg1 Qb6+ 24. Qe3 Qxa6 25. f6 Bd8 26. Rb1 Bb6 27. Rxb6
 Nxb6 28. Rb1 Nc4 29. Qe2 Qa7+ 30. Kf1 Ned2+ 0-1
 
 [Event "Yvelines Championship"]
-[Site "Conflans Ste Honorine FRA"]
+[Site "Conflans-Sainte-Honorine FRA"]
 [Date "1997.02.16"]
 [Round "6"]
 [White "Rakhodai, N."]
 [Black "Raoult, Bruno"]
+[TimeControl "40/7200:20/3600:3600"]
 [Result "0-1"]
 [ECO "A57"]
 [WhiteElo "1440"]

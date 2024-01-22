@@ -1,9 +1,10 @@
 [Event "Conflans-club"]
-[Site "Conflans Ste Honorine FRA"]
+[Site "Conflans-Sainte-Honorine FRA"]
 [Date "1990.??.??"]
 [Round "?"]
 [White "Valentin, Alain"]
 [Black "Raoult, Bruno"]
+[TimeControl "3600"]
 [Result "0-1"]
 [ECO "A68"]
 [WhiteElo "1600"]
@@ -17,11 +18,12 @@ Rg3 Nxd3 22. Nxd3 Rxe4 23. a5 Qb5 24. Nf2 Qxb2 25. Rd1 Qe2 26. Rf1 Rf8 27. Rb3
 Qxf2+ 28. Rxf2 Re1+ 29. Rf1 Rfxf1# 0-1
 
 [Event "Conflans Club"]
-[Site "Conflans Ste Honorine FRA"]
+[Site "Conflans-Sainte-Honorine FRA"]
 [Date "1990.??.??"]
 [Round "?"]
 [White "Raoult, Bruno"]
 [Black "Chataigner"]
+[TimeControl "3600"]
 [Result "1-0"]
 [ECO "C60"]
 [WhiteElo "1600"]
@@ -36,11 +38,12 @@ Rxf6 27. Bd4 d5 28. Qxc8 Kg6 29. Qg8+ Kf5 30. Rf1+ Ke4 31. Qg4+ Rf4 32. Qxf4#
 1-0
 
 [Event "Conflans Club"]
-[Site "Conflans Ste Honorine FRA"]
+[Site "Conflans-Sainte-Honorine FRA"]
 [Date "1991.??.??"]
 [Round "?"]
 [White "Raoult, Bruno"]
 [Black "Furet, Christian"]
+[TimeControl "3600"]
 [Result "1-0"]
 [ECO "B07"]
 [WhiteElo "1600"]
@@ -58,11 +61,12 @@ Kf6 47. c4 f4 48. h4 gxh4 49. Bxf4 Kf5 50. Bc7 e3 51. b4 Bxg2 52. b5 Be4 53.
 Ke2 Bc2 54. a5 Ke4 55. b6 Bd3+ 56. Ke1 Bxc4 57. b7 1-0
 
 [Event "Conflans Club"]
-[Site "Conflans Ste Honorine FRA"]
+[Site "Conflans-Sainte-Honorine FRA"]
 [Date "1991.??.??"]
 [Round "?"]
 [White "Bruzzi"]
 [Black "Raoult, Bruno"]
+[TimeControl "3600"]
 [Result "1/2-1/2"]
 [ECO "C34"]
 [WhiteElo "1400"]
@@ -78,11 +82,12 @@ Kg5 34. Qg7+ Kf5 35. Qxh7+ Ke5 36. Rd2 Re8 37. d7 Rd8 38. Qe7+ Re6 39. Qxd8 Ne4
 40. Qh8+ Rf6 41. d8=Q Qc3+ 42. Ka3 Qc5+ 43. Kb2 1/2-1/2
 
 [Event "Conflans Club"]
-[Site "Conflans Ste Honorine FRA"]
+[Site "Conflans-Sainte-Honorine FRA"]
 [Date "1991.??.??"]
 [Round "?"]
 [White "Raoult, Bruno"]
 [Black "Valentin, Alain"]
+[TimeControl "3600"]
 [Result "1-0"]
 [ECO "B20"]
 [WhiteElo "1600"]

@@ -7,6 +7,7 @@
 [Result "1-0"]
 [ECO "A36"]
 [Opening "English: Symmetrical, 5.e3"]
+[TimeControl "40/7200:20/3600:3600"]
 [EventDate "1982.??.??"]
 [PlyCount "55"]
 
@@ -25,6 +26,7 @@ Nb7 e4 27. Rac1 Bb2 28. Rb1 1-0
 [Result "0-1"]
 [ECO "B80"]
 [Opening "Sicilian: Scheveningen, 7.Qd2"]
+[TimeControl "40/7200:20/3600:3600"]
 [EventDate "1982.??.??"]
 [PlyCount "54"]
 
@@ -43,6 +45,7 @@ Kd2 Rd8+ 27. Ke2 Rxc2+ 0-1
 [Result "0-1"]
 [ECO "A45"]
 [Opening "Indian: 2.Nc3"]
+[TimeControl "40/7200:20/3600:3600"]
 [EventDate "1982.??.??"]
 [PlyCount "72"]
 
@@ -62,6 +65,7 @@ Nc3 f2 33. b3 fxe1=Q+ 34. Kb2 a5 35. Nxe2 Bxa3+ 36. Kxa3 Qa1# 0-1
 [Result "1-0"]
 [ECO "B56"]
 [Opening "Sicilian: Open, 2...d6, 5.Nc3 Bd7"]
+[TimeControl "40/7200:20/3600:3600"]
 [EventDate "1982.??.??"]
 [PlyCount "91"]
 
@@ -83,6 +87,7 @@ Kd5 45. b4 Ke4 46. b5 1-0
 [Result "0-1"]
 [ECO "A46"]
 [Opening "Indian: London System"]
+[TimeControl "40/7200:20/3600:3600"]
 [EventDate "1982.??.??"]
 [PlyCount "136"]
 
@@ -108,6 +113,7 @@ Ne4 0-1
 [Result "0-1"]
 [ECO "C61"]
 [Opening "Spanish: Bird's Defence"]
+[TimeControl "40/7200:20/3600:3600"]
 [EventDate "1982.??.??"]
 [PlyCount "62"]
 
@@ -127,6 +133,7 @@ Bxe6 0-1
 [Result "1/2-1/2"]
 [ECO "C49"]
 [Opening "Four Knights: 4.Bb5 Bb4"]
+[TimeControl "40/7200:20/3600:3600"]
 [EventDate "1982.??.??"]
 [PlyCount "69"]
 

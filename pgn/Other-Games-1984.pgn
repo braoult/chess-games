@@ -46,16 +46,17 @@ Kg4 57. Kf7 Kxg3 58. e8=Q 1-0
 
 [Event "France Cup"]
 [Site "?"]
-[Date "1985.??.??"]
+[Date "1985.02.03"]
 [Round "2"]
 [White "Raoult, Bruno"]
-[Black "Dolabadjian, F."]
+[Black "Dolabadjian, François"]
 [Result "1-0"]
-[WhiteElo "1550"]
+[WhiteElo "1600"]
 [BlackElo "1600"]
 [ECO "C60"]
 [Opening "Spanish: Cozio, 4.O-O"]
 [EventDate "1985.??.??"]
+[Board "1"]
 [PlyCount "167"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 4. c3 a6 5. Ba4 b5 6. Bb3 Bb7 7. O-O h6 8.

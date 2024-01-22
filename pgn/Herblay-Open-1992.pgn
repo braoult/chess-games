@@ -8,6 +8,7 @@
 [BlackElo "1730"]
 [ECO "C47"]
 [Opening "Four Knights: Scotch, Main Line"]
+[TimeControl "1800"]
 [EventDate "1992.??.??"]
 [PlyCount "52"]
 
@@ -27,6 +28,7 @@ O-O 8. O-O Re8 9. Bg5 d6 10. h3 Qe7 11. Re1 Qe5 12. Bxf6 Qxf6 13. Qd2 Bb7
 [WhiteElo "1730"]
 [ECO "B30"]
 [Opening "Sicilian: 2...Nc6 3.b3"]
+[TimeControl "1800"]
 [EventDate "1992.??.??"]
 [PlyCount "70"]
 
@@ -47,6 +49,7 @@ Qe2+ 32. Kh3 Qh5+ 33. Kg2 dxe4 34. Ra7 Re6 35. Qxf7+ Qxf7 0-1
 [BlackElo "1730"]
 [ECO "A36"]
 [Opening "English: Symmetrical, Botvinnik System, 5...d6, 8.d3"]
+[TimeControl "1800"]
 [EventDate "1992.??.??"]
 [PlyCount "63"]
 
@@ -66,6 +69,7 @@ Qa5 15. Nc3 Bxc3 16. bxc3 b6 17. Qc2 a6 18. f4 Bc6 19. Bd2 b5 20. cxb5 axb5
 [BlackElo "1730"]
 [ECO "C47"]
 [Opening "Four Knights: Scotch, 4...exd4 5.Nxd4 Bc5"]
+[TimeControl "1800"]
 [EventDate "1992.??.??"]
 [PlyCount "70"]
 
@@ -87,6 +91,7 @@ Kg3 a2 33. Nf2 a1=Q 34. Nh1 Qg1+ 35. Kh3 Rh2# 0-1
 [BlackElo "1700"]
 [ECO "B20"]
 [Opening "Sicilian: Snyder"]
+[TimeControl "1800"]
 [EventDate "1992.??.??"]
 [PlyCount "89"]
 
@@ -109,6 +114,7 @@ Rh6 44. Ra5 Rg6 45. Bxh7 1-0
 [WhiteElo "1730"]
 [ECO "C41"]
 [Opening "Philidor: 3...exd4 4.Nxd4 Nf6 5.Nc3 Be7 6.Bc4"]
+[TimeControl "1800"]
 [EventDate "1992.??.??"]
 [PlyCount "73"]
 
@@ -130,6 +136,7 @@ Nb4 20. c4 Nc2 21. Rd1 Nxe3 22. fxe3 Re8 23. Kf2 f5 24. Rd4 Kf7 25. g4 Re5
 [BlackElo "1730"]
 [ECO "A60"]
 [Opening "Benoni: 3.d5 e6"]
+[TimeControl "1800"]
 [EventDate "1992.??.??"]
 [PlyCount "74"]
 

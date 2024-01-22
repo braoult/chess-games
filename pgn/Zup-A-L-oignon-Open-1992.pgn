@@ -8,6 +8,7 @@
 [BlackElo "1645"]
 [ECO "A00"]
 [Opening "Van Kruijs"]
+[TimeControl "1800"]
 [EventDate "1992.??.??"]
 [PlyCount "44"]
 
@@ -26,6 +27,7 @@ Qb4 Bc3 21. Qxc5 Rxc5 22. Nxb5 Rxb5 0-1
 [WhiteElo "1645"]
 [ECO "B09"]
 [Opening "Pirc: Austrian, 5...O-O 6.Be3"]
+[TimeControl "1800"]
 [EventDate "1992.??.??"]
 [PlyCount "69"]
 
@@ -47,6 +49,7 @@ Rf7 Rxf7 28. gxf7 Rf8 29. Qf5 cxd4 30. Qg6 Rxf7 31. Qxf7 Qxf7 32. Bxf7 Bxe5
 [BlackElo "1645"]
 [ECO "C50"]
 [Opening "Italian: Hungarian Defence, 4.d4 d6"]
+[TimeControl "1800"]
 [EventDate "1992.??.??"]
 [PlyCount "55"]
 
@@ -66,6 +69,7 @@ Bxa7 Rd8+ 26. Ke3 Bc3 27. Bc5+ Kg8 28. Rb1 1-0
 [WhiteElo "1645"]
 [ECO "B40"]
 [Opening "Sicilian: 2...e6 3.b3 Nc6"]
+[TimeControl "1800"]
 [EventDate "1992.??.??"]
 [PlyCount "79"]
 
@@ -87,6 +91,7 @@ Bxg5 Rd6 33. Qh7+ Ke6 34. Rh1 R6d7 35. Qf5+ Kd6 36. Qxf6+ Kc7 37. Rc1 Qxc1
 [WhiteElo "1645"]
 [ECO "B09"]
 [Opening "Pirc: Austrian, 5...c5"]
+[TimeControl "1800"]
 [EventDate "1992.??.??"]
 [PlyCount "57"]
 
@@ -107,6 +112,7 @@ Bxg4 Nxc1 21. Rxc1 Kf7 22. Nf2 Rd2 23. Ne4 Rxb2 24. Nxc5 Rd8 25. Be6+ Ke8
 [BlackElo "1645"]
 [ECO "C29"]
 [Opening "Vienna Gambit: 3...d6 4.Nf3"]
+[TimeControl "1800"]
 [EventDate "1992.??.??"]
 [PlyCount "51"]
 
@@ -126,6 +132,7 @@ c3 Nxb3 15. axb3 Kb7 16. fxe5 dxe5 17. Qxf5 Qxf5 18. Rxf5 Bc5+ 19. d4 Bd6
 [WhiteElo "1645"]
 [ECO "C02"]
 [Opening "French: Advance, 4.Nf3"]
+[TimeControl "1800"]
 [EventDate "1992.??.??"]
 [PlyCount "90"]
 

@@ -7,6 +7,7 @@
 [Result "1/2-1/2"]
 [ECO "B20"]
 [Opening "Sicilian: Snyder, 2...e6"]
+[TimeControl "40/7200:20/3600:3600"]
 [EventDate "1983.??.??"]
 [PlyCount "38"]
 
@@ -25,6 +26,7 @@ Re8 1/2-1/2
 [WhiteElo "1670"]
 [ECO "B15"]
 [Opening "Caro-Kann: 3.Nc3"]
+[TimeControl "40/7200:20/3600:3600"]
 [EventDate "1983.??.??"]
 [PlyCount "58"]
 
@@ -43,6 +45,7 @@ Qxd5 e6 21. Nd8+ Ke7 22. Nc6+ Kf7 23. Qb3 Bd7 24. Nd4 Bxb5 25. Qxe6+ Kf8
 [Result "1-0"]
 [ECO "A01"]
 [Opening "Nimzowitsch-Larsen: 1...d5 2.Bb2"]
+[TimeControl "40/7200:20/3600:3600"]
 [EventDate "1983.??.??"]
 [PlyCount "69"]
 
@@ -62,6 +65,7 @@ Rxb7 Kd5 33. Rb6 a5 34. Rd1+ Ke4 35. Re6# 1-0
 [Result "1-0"]
 [ECO "A40"]
 [Opening "Queen's Pawn: 1...e6"]
+[TimeControl "40/7200:20/3600:3600"]
 [EventDate "1983.??.??"]
 [PlyCount "85"]
 
@@ -82,6 +86,7 @@ g4 Ng7 41. gxf5 Nxf5 42. Bc2 Qh4 43. Bxf5 1-0
 [Result "0-1"]
 [ECO "C11"]
 [Opening "French: Steinitz"]
+[TimeControl "40/7200:20/3600:3600"]
 [EventDate "1983.??.??"]
 [PlyCount "92"]
 
@@ -103,6 +108,7 @@ e4 39. Kg1 e3 40. h4 h5 41. Kh2 Rxf2+ 42. Rxf2 Rxf2+ 43. Kh3 e2 44. g4 e1=Q
 [Result "1-0"]
 [ECO "C65"]
 [Opening "Spanish: Berlin, 4.O-O"]
+[TimeControl "40/7200:20/3600:3600"]
 [EventDate "1983.??.??"]
 [PlyCount "53"]
 

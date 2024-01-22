@@ -1,9 +1,10 @@
 [Event "Conflans Club"]
-[Site "Conflans Ste Honorine FRA"]
+[Site "Conflans-Sainte-Honorine FRA"]
 [Date "1991.??.??"]
 [Round "?"]
 [White "Mathieu, Roger"]
 [Black "Raoult, Bruno"]
+[TimeControl "3600"]
 [Result "0-1"]
 [ECO "C45"]
 [BlackElo "1730"]
@@ -16,11 +17,12 @@
 Rff2 25. Bxc7 e4 0-1
 
 [Event "Conflans Club"]
-[Site "Conflans Ste Honorine FRA"]
+[Site "Conflans-Sainte-Honorine FRA"]
 [Date "1991.??.??"]
 [Round "?"]
 [White "Raoult, Bruno"]
 [Black "Mathieu, Roger"]
+[TimeControl "3600"]
 [Result "1-0"]
 [ECO "E61"]
 [WhiteElo "1730"]
@@ -40,11 +42,12 @@ Rxe5 Bc3 48. Rf5+ Ke6 49. Rxf4 f6 50. Rf5 Bb4 51. h5 Kf7 52. Kd5 Ke7 53. h6 Kf7
 puis 1-0 qq coups plus tard} 1-0
 
 [Event "Conflans Club"]
-[Site "Conflans Ste Honorine FRA"]
+[Site "Conflans-Sainte-Honorine FRA"]
 [Date "1991.??.??"]
 [Round "?"]
 [White "Raoult, Bruno"]
 [Black "Lasbleis, Pol"]
+[TimeControl "3600"]
 [Result "0-1"]
 [ECO "C70"]
 [WhiteElo "1730"]
@@ -61,11 +64,12 @@ Re4 34. g3 Re3 35. Kg2 Kf6 36. Kf2 Rd3 37. Rxd3 cxd3 38. g4 d2 39. Ke2 d1=B+
 b4 Kf6 47. Ke4 Ke6 48. Kf4 Kd5 0-1
 
 [Event "Conflans Club"]
-[Site "Conflans Ste Honorine FRA"]
+[Site "Conflans-Sainte-Honorine FRA"]
 [Date "1991.??.??"]
 [Round "?"]
 [White "Raoult, Bruno"]
 [Black "Crapez, Marc"]
+[TimeControl "3600"]
 [Result "1-0"]
 [ECO "C42"]
 [WhiteElo "1730"]
@@ -81,11 +85,12 @@ Nd4 Rxc3 40. Nxc6 Rc2+ 41. Kf3 Rc3+ 42. Kf2 Kg6 43. Nxa5+ Kf5 44. Ra7 g5 45.
 Rh7 Kg6 1-0
 
 [Event "Conflans Club"]
-[Site "Conflans Ste Honorine FRA"]
+[Site "Conflans-Sainte-Honorine FRA"]
 [Date "1991.??.??"]
 [Round "?"]
 [White "Pallanca, Edouard"]
 [Black "Raoult, Bruno"]
+[TimeControl "3600"]
 [Result "0-1"]
 [ECO "C46"]
 [BlackElo "1730"]
@@ -100,11 +105,12 @@ Bg6 Qxd3 34. cxd3 a4 35. Be4 a3 36. d4 a2 37. dxc5 a1=Q+ 38. Kh2 Qe5+ 39. g3
 Ra2+ 40. Bg2 Qe2 41. h4 Qxg2# 0-1
 
 [Event "Conflans Club"]
-[Site "Conflans Ste Honorine FRA"]
+[Site "Conflans-Sainte-Honorine FRA"]
 [Date "1991.??.??"]
 [Round "?"]
 [White "Le Pavec, J."]
 [Black "Raoult, Bruno"]
+[TimeControl "3600"]
 [Result "0-1"]
 [ECO "A09"]
 [BlackElo "1730"]

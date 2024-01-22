@@ -1,5 +1,5 @@
 [Event "Yvelines Championship"]
-[Site "Conflans Ste Honorine FRA"]
+[Site "Conflans-Sainte-Honorine FRA"]
 [Date "1997.02.07"]
 [Round "1"]
 [White "Raoult, Bruno"]
@@ -9,7 +9,8 @@
 [BlackElo "1540"]
 [ECO "C68"]
 [Opening "Spanish: Exchange, 5.O-O Bd6"]
-[Annotator "Raoult/Fritz 4"]
+[TimeControl "40/7200:20/3600:3600"]
+[Annotator "Raoult+Fritz 4, 1997"]
 [EventDate "1997.??.??"]
 [PlyCount "115"]
 
@@ -30,7 +31,7 @@ Rf5 44. Rc6 Rb5 45. g4 Kd7 46. Rc4 Ke6 $16 (46... Re5 $5 $14) 47. g5 Rf5
 54. g6 a5 55. f7 Rf2 56. f8=Q Rxf8 57. Kxf8 Kb5 58. g7 1-0
 
 [Event "Yvelines Championship"]
-[Site "Conflans Ste Honorine FRA"]
+[Site "Conflans-Sainte-Honorine FRA"]
 [Date "1997.02.08"]
 [Round "2"]
 [White "Pouzin, O."]
@@ -40,7 +41,8 @@ Rf5 44. Rc6 Rb5 45. g4 Kd7 46. Rc4 Ke6 $16 (46... Re5 $5 $14) 47. g5 Rf5
 [BlackElo "1890"]
 [ECO "C34"]
 [Opening "KGA: Fischer, Main Line"]
-[Annotator "Raoult/Fritz 4"]
+[TimeControl "40/7200:20/3600:3600"]
+[Annotator "Raoult+Fritz 4, 1997"]
 [EventDate "1997.??.??"]
 [PlyCount "62"]
 
@@ -48,20 +50,20 @@ Rf5 44. Rc6 Rb5 45. g4 Kd7 46. Rc4 Ke6 $16 (46... Re5 $5 $14) 47. g5 Rf5
 Bc4 d5 9. Bd3 Bg7 10. c3 O-O 11. Nd2 Re8 12. Ne2 Bf5 13. Qc2 Nd7 14. O-O-O
 Nf2 15. Bxf5 Nxh1 16. Bxh7+ Kh8 17. Rxh1 Rxe2 18. Bd3 Rxg2 19. Qd1 g3 $6 (
 19... c5 $5 { Etait moins risque } 20. Qf1 Rxd2 21. Bxd2 cxd4 $14 22. Qf5
-Nf6 23. Bg5 Kg8 24. Rf1 g3 $15) 20. Qh5+ Kg8 21. Qh7+ Kf8 22. Qh5 $10 ( {
-Peut-etre fallait-il tenter } 22. Bh6 Qf6 23. Qh8+ Ke7 24. Re1+ (24. Qxg7
-$6 Qxg7 25. Bxg7 Rg8 $13) (24. Qxa8 $2 Bxh6 $19) 24... Kd6 25. Qxg7 (25.
-Qxa8 $2 Bxh6 $19) 25... Qxg7 26. Bxg7 Rg8 27. Bh6 $16) 22... Qf6 $2 $16 (
-22... Nb6 $5 $10) 23. Qg4 $2 $17 { Laisse l'avantage s'envoler... } (23.
-Qxd5 $14) 23... Bh6 24. Bg5 (24. Bxh6+ $5 Qxh6 25. Rd1 $17) 24... Bxg5 25.
-hxg5 Qe6 $2 $138 { Rate une belle occasion } (25... Qf2 26. Qd1 Rh2 $19)
-26. Qf3 $17 (26. Qxe6 fxe6 27. Rh8+ Ke7 28. Rxa8 Rxd2 29. Kxd2 g2 $19)
+Nf6 23. Bg5 Kg8 24. Rf1 g3 $15) 20. Qh5+ Kg8 21. Qh7+ Kf8 22. Qh5 $10 (22.
+Bh6 { aurait-peut-être pu être tenté: } 22... Qf6 23. Qh8+ Ke7 24. Re1+
+(24. Qxg7 $6 Qxg7 25. Bxg7 Rg8 $13) (24. Qxa8 $2 Bxh6 $19) 24... Kd6 25.
+Qxg7 (25. Qxa8 $2 Bxh6 $19) 25... Qxg7 26. Bxg7 Rg8 27. Bh6 $16) 22... Qf6
+$2 $16 (22... Nb6 $5 $10) 23. Qg4 $2 $17 { Laisse l'avantage s'envoler... }
+(23. Qxd5 $14) 23... Bh6 24. Bg5 (24. Bxh6+ $5 Qxh6 25. Rd1 $17) 24... Bxg5
+25. hxg5 Qe6 $2 $138 { Rate une belle occasion } (25... Qf2 26. Qd1 Rh2 $19
+) 26. Qf3 $17 (26. Qxe6 fxe6 27. Rh8+ Ke7 28. Rxa8 Rxd2 29. Kxd2 g2 $19)
 26... Rh2 27. Rg1 g2 28. Qf2 $17 (28. Bf5 $5 Qd6 29. Rxg2 Rxg2 30. Qxg2 Re8
 $17) 28... Re8 29. Kc2 (29. Nf3 Rh3 30. Rxg2 Qe3+ 31. Qxe3 Rxe3 32. Bf5
 Rhxf3 33. Bxd7 $19) 29... Qe3 30. Qxe3 Rxe3 31. Nb1 Rg3 (31... Re1 $1) 0-1
 
 [Event "Yvelines Championship"]
-[Site "Conflans Ste Honorine FRA"]
+[Site "Conflans-Sainte-Honorine FRA"]
 [Date "1997.02.14"]
 [Round "3"]
 [White "Raoult, Bruno"]
@@ -71,6 +73,7 @@ Rhxf3 33. Bxd7 $19) 29... Qe3 30. Qxe3 Rxe3 31. Nb1 Rg3 (31... Re1 $1) 0-1
 [BlackElo "2100"]
 [ECO "B03"]
 [Opening "Alekhine: Exchange, 5...exd6"]
+[TimeControl "40/7200:20/3600:3600"]
 [EventDate "1997.??.??"]
 [PlyCount "54"]
 
@@ -81,7 +84,7 @@ Rhxf3 33. Bxd7 $19) 29... Qe3 30. Qxe3 Rxe3 31. Nb1 Rg3 (31... Re1 $1) 0-1
 Qxe3+ 26. Qxe3 Rxe3 27. Rf5 Re4 0-1
 
 [Event "Yvelines Championship"]
-[Site "Conflans Ste Honorine FRA"]
+[Site "Conflans-Sainte-Honorine FRA"]
 [Date "1997.02.15"]
 [Round "4"]
 [White "Mathieu, Roger"]
@@ -91,6 +94,7 @@ Qxe3+ 26. Qxe3 Rxe3 27. Rf5 Re4 0-1
 [BlackElo "1890"]
 [ECO "A57"]
 [Opening "Benko Gambit"]
+[TimeControl "40/7200:20/3600:3600"]
 [EventDate "1997.??.??"]
 [PlyCount "68"]
 
@@ -102,7 +106,7 @@ Raa2 28. Rf3 g4 29. Rf4 Nd3 30. Qe2 Nxf4 31. Nxf4 Qa5 32. Nb3 Rxe2 33. Nxa5
 Rxf2 34. Kh1 gxh3 0-1
 
 [Event "Yvelines Championship"]
-[Site "Conflans Ste Honorine FRA"]
+[Site "Conflans-Sainte-Honorine FRA"]
 [Date "1997.02.15"]
 [Round "5"]
 [White "Raoult, Bruno"]
@@ -112,6 +116,7 @@ Rxf2 34. Kh1 gxh3 0-1
 [BlackElo "1760"]
 [ECO "B50"]
 [Opening "Sicilian: 2.Nf3 d6 3.b3"]
+[TimeControl "40/7200:20/3600:3600"]
 [EventDate "1997.??.??"]
 [PlyCount "60"]
 
@@ -122,7 +127,7 @@ O-O Be7 9. Nh4 g6 10. f4 Nbd7 11. f5 Qb6 12. Kh1 g5 13. Nf3 g4 14. Nh4 h5
 Bb6 27. Rxb6 Nxb6 28. Rb1 Nc4 29. Qe2 Qa7+ 30. Kf1 Ned2+ 0-1
 
 [Event "Yvelines Championship"]
-[Site "Conflans Ste Honorine FRA"]
+[Site "Conflans-Sainte-Honorine FRA"]
 [Date "1997.02.16"]
 [Round "6"]
 [White "Rakhodai, N."]
@@ -132,6 +137,7 @@ Bb6 27. Rxb6 Nxb6 28. Rb1 Nc4 29. Qe2 Qa7+ 30. Kf1 Ned2+ 0-1
 [BlackElo "1890"]
 [ECO "A57"]
 [Opening "Benko Gambit"]
+[TimeControl "40/7200:20/3600:3600"]
 [EventDate "1997.??.??"]
 [PlyCount "52"]
 

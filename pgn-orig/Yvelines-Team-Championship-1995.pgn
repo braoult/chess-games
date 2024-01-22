@@ -4,6 +4,7 @@
 [Round "1"]
 [White "Raoult, Bruno"]
 [Black "Chassepot, A."]
+[TimeControl "40/7200:20/3600:3600"]
 [WhiteTeam "Conflans-Sainte-Honorine"]
 [BlackTeam "Chambourcy"]
 [Result "1-0"]
@@ -28,6 +29,7 @@ Nb5 40. Kd2 Re5 41. h4 Nc7 42. h5 Re7 43. h6 Rh7 44. Rg7 1-0
 [Round "3"]
 [White "Adam, S."]
 [Black "Raoult, Bruno"]
+[TimeControl "40/7200:20/3600:3600"]
 [WhiteTeam "Le Chesnay A"]
 [BlackTeam "Conflans-Sainte-Honorine"]
 [Result "0-1"]
@@ -52,6 +54,7 @@ Nb3 41. Bc3 Rc2 42. Be5 Rc1+ 43. Rxc1 Nxc1 44. Bb8 c3 45. Bxa7 c2 0-1
 [Round "4"]
 [White "Raoult, Bruno"]
 [Black "Ziajko, O."]
+[TimeControl "40/7200:20/3600:3600"]
 [WhiteTeam "Conflans-Sainte-Honorine"]
 [BlackTeam "Mantes-la-Jolie"]
 [Result "1-0"]
@@ -61,9 +64,37 @@ Nb3 41. Bc3 Rc2 42. Be5 Rc1+ 43. Rxc1 Nxc1 44. Bb8 c3 45. Bxa7 c2 0-1
 [PlyCount "65"]
 [EventDate "1995.??.??"]
 [Seat "1"]
+[Annotator "Bruno Raoult, 1996"]
 
-1. e4 c5 2. Nf3 Nc6 3. b3 e6 4. Bb2 d6 5. d4 cxd4 6. Nxd4 a6 7. Be2 Nge7 8. O-O
-Ng6 9. Kh1 Nf4 10. Bf3 Ne5 11. g3 Nxf3 12. Qxf3 Ng6 13. Nd2 Be7 14. Ne2 O-O 15.
-Qe3 e5 16. f4 f5 17. Nc4 b5 18. Nb6 Bb7 19. Nd5 Rc8 20. Nxe7+ Qxe7 21. Nc3 exf4
-22. gxf4 d5 23. Rad1 dxe4 24. Nd5 Bxd5 25. Rxd5 Rxc2 26. Qd4 Rf7 27. Rg1 e3 28.
-Rd8+ Rf8 29. Rd7 Rxh2+ 30. Kxh2 Qh4+ 31. Kg2 Nxf4+ 32. Qxf4 Qxf4 33. Rxg7+ 1-0
+1. e4 c5 2. Nf3 Nc6 3. b3 e6 4. Bb2 d6 5. d4 cxd4 6. Nxd4 a6
+{ Quite unusual }
+( 6... Nf6 { is the common move here. For example: } 7.Nxc6 bxc6 8.e5 )
+7. Be2 Nge7 8. O-O Ng6 9. Kh1 $6 $10
+( 9.Nxc6 bxc6 10.Nd2 $14 )
+9... Nf4 10. Bf3 Ne5 11. g3 Nxf3 12. Qxf3 Ng6 13. Nd2 $6
+( 13.c4 { was probably much better here } )
+13... Be7 14. Ne2
+{ Black is now better }
+14... O-O 15.Qe3 e5 16. f4 f5 17. Nc4 b5 18. Nb6 Bb7
+19. Nd5 $6
+( 19.Kg1 { was maybe a better defense for white - but still difficult }
+19... Bxe4 20.Rad1 Rb8 21.Nd5 Rc8 22.Nec3 )
+( 19.Nxa8 Bxe4+ 20.Kg1 Bxa8 $17)
+19... Rc8 20. Nxe7+ $2 $19 { lose the game }
+( 20.Rac1 fxe4 21.Qxe4 Qd7 22.Kg1 Bd8 23.c4 $17 )
+20... Qxe7 21. Nc3 exf4
+22. gxf4 d5 $2
+( 22... b4 $1 { was winning: } 23.Nd1 Qxe4+ 24.Qxe4 Bxe4+ 25.Kg1 Rxc2 )
+23. Rad1 dxe4 24. Nd5 Bxd5 25. Rxd5 Rxc2 26. Qd4 Rf7
+{ I was thinking about resigning for some time, but I wanted to try a small
+hopeless trap, by using the pressure on g7, as well as black queen being on 7th rank... }
+27. Rg1 $6 { Setting up the trap: I had noticed 27. Rd8+ and black needs to be very careful, for example: 27... Rf8? 28.Rd7. By playing 27.Rg1, playing Nf8 on next move will look even less natural, opening the g-file for a third piece targeting g7 }
+27... e3 28.Rd8+ { Trap is ready, but I also had to give my opponent some reasons to overlook the position: After playing this move, I used my (very poor) actor talents to show I was hopeless: with a sigh, I ragely scrawled my move and quit the table for a smoke outside, hoping to rise my opponent confidence to the highest levels. A teammate was also taking a break, and I explained him the evil trap I prepared, and which move I expected. He followed me back to my table; Black had already played.}
+28... Rf8 $4 $10 { My teammate winked at me when he saw black move, and went back to his own table... What happens now is that white cannot lose anymore, and black has to take the draw... or lose (!) }
+(28...Nf8 $1 { was the only move, and my idea was to resign soon after. For example: } 29.Re1 { (or 29.Bc1) } 29...Qh4 )
+29. Rd7 $1 { I played this move immediately, and my opponent face started decomposing after a few seconds, when he realized what happened, and how the trap had been prepared }
+29... Rxh2+ $1
+{ the only move, going to a draw. }
+30. Kxh2 Qh4+ 31. Kg2 Nxf4+ $4 { Unbelievable, he did not see the full trap! }
+(31... Qf2+ { was draw after: } 32.Kh3 Qh4+ $10)
+32. Qxf4 $1 { game over } 32... Qxf4 33. Rxg7+ 1-0

@@ -9,6 +9,7 @@
 [BlackElo "1600"]
 [ECO "C30"]
 [Opening "KGD: Classical, 3.Nf3 d6 4.Nc3"]
+[TimeControl "40/7200:20/3600:3600"]
 [EventDate "1990.??.??"]
 [PlyCount "48"]
 
@@ -28,6 +29,7 @@ Qd4 21. Qxd4 Bxd4 22. Re2 Bxe5 23. h5 Rad8 24. Ra5 Bg3+ 0-1
 [BlackElo "1600"]
 [ECO "C58"]
 [Opening "Two Knights: Morphy, Polerio, 6...Bd7"]
+[TimeControl "40/7200:20/3600:3600"]
 [EventDate "1991.??.??"]
 [PlyCount "47"]
 
@@ -47,6 +49,7 @@ Bb2 Rad8 21. Nd2 Bxd2 22. Qxd2 Rd5 23. Rfd1 Red8 24. Qc3 1/2-1/2
 [BlackElo "1600"]
 [ECO "A17"]
 [Opening "English: Anglo-Indian, 2.Nc3 e6 3.g3"]
+[TimeControl "40/7200:20/3600:3600"]
 [EventDate "1991.??.??"]
 [PlyCount "81"]
 

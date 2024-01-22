@@ -7,6 +7,7 @@
 [Result "1-0"]
 [ECO "B20"]
 [Opening "Sicilian: Snyder, 2...e6"]
+[TimeControl "3600"]
 [EventDate "1984.??.??"]
 [PlyCount "150"]
 
@@ -33,6 +34,7 @@ Rc2+ Kf1 75. Rxg2 Kxg2 1-0
 [Result "0-1"]
 [ECO "C58"]
 [Opening "Two Knights: Morphy, Polerio, 6...Bd7"]
+[TimeControl "3600"]
 [EventDate "1984.??.??"]
 [PlyCount "46"]
 
@@ -50,6 +52,7 @@ Kh1 Qh4 20. h3 f5 21. Rg1 f4 22. Kg2 f3+ 23. Kf1 Qxh3+ 0-1
 [Result "0-1"]
 [ECO "C54"]
 [Opening "Giuoco Pianissimo: 5.d3 d6"]
+[TimeControl "3600"]
 [EventDate "1984.??.??"]
 [PlyCount "72"]
 
@@ -69,6 +72,7 @@ Qd2 h5 32. g3 Kh7 33. gxf4 gxf4 34. Kh1 Qh3 35. Qe2 Rg8 36. R1a2 Rc7 0-1
 [Result "0-1"]
 [ECO "C91"]
 [Opening "Spanish: Closed, Bogoljubow, 10.d5 Na5"]
+[TimeControl "3600"]
 [EventDate "1984.??.??"]
 [PlyCount "76"]
 
@@ -89,6 +93,7 @@ Qg3 0-1
 [Result "1-0"]
 [ECO "B20"]
 [Opening "Sicilian: Snyder, 2...Nc6"]
+[TimeControl "3600"]
 [EventDate "1984.??.??"]
 [PlyCount "119"]
 
@@ -112,6 +117,7 @@ Kf6 57. g5+ Kg6 58. Kg4 Kf7 59. Kf5 Kg7 60. Nxe5 1-0
 [Result "0-1"]
 [ECO "E14"]
 [Opening "Queen's Indian: 4.e3 Bb7 5.Bd3 c5 6.Nc3"]
+[TimeControl "3600"]
 [EventDate "1984.??.??"]
 [PlyCount "90"]
 
@@ -133,6 +139,7 @@ Ne4 44. g5 f5 45. Nxf5 $4 b3 0-1
 [Result "1-0"]
 [ECO "B20"]
 [Opening "Sicilian: Snyder, 2...Nc6"]
+[TimeControl "3600"]
 [EventDate "1984.??.??"]
 [PlyCount "85"]
 
@@ -153,6 +160,7 @@ Kg1 Qa7 39. Qd5+ Kb8 40. Qxe5+ Kb7 41. Rd1 c4+ 42. Qd4 Qxd4+ 43. Rxd4 1-0
 [Result "1/2-1/2"]
 [ECO "A74"]
 [Opening "Benoni: Classical, 9.O-O a6 10.a4"]
+[TimeControl "3600"]
 [EventDate "1984.??.??"]
 [PlyCount "68"]
 
@@ -172,6 +180,7 @@ Qf3 Re7 27. Kh1 b5 28. axb5 axb5 29. Bd3 Nc3 30. Rde1 Nxd5 31. Bxb5 Nxe3
 [Result "0-1"]
 [ECO "B20"]
 [Opening "Sicilian: Snyder, 2...d6"]
+[TimeControl "3600"]
 [EventDate "1984.??.??"]
 [PlyCount "34"]
 
@@ -188,6 +197,7 @@ Qa5+ 14. Kf2 Kxg7 15. Qxd6 $4 Nf6 $1 16. Qd3 Nxe4+ 17. Kf1 Rad8 0-1
 [Result "1-0"]
 [ECO "B20"]
 [Opening "Sicilian: Snyder, 2...Nc6"]
+[TimeControl "3600"]
 [EventDate "1984.??.??"]
 [PlyCount "103"]
 
@@ -211,6 +221,7 @@ Rfg2 Rxg7 32. fxg7 Bxe4 33. dxe4 d3 34. Rd1 dxc2 35. Rc1 Be3 36. Rcxc2 Rxc2
 [Result "1/2-1/2"]
 [ECO "C11"]
 [Opening "French: Steinitz, 6.Nf3"]
+[TimeControl "3600"]
 [EventDate "1984.??.??"]
 [PlyCount "53"]
 

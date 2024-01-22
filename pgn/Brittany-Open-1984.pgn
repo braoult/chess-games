@@ -1,6 +1,6 @@
 [Event "Brittany Open"]
 [Site "Dinard FRA"]
-[Date "1984.??.??"]
+[Date "1984.03.24"]
 [Round "1"]
 [White "Le Gouais"]
 [Black "Raoult, Bruno"]
@@ -8,6 +8,7 @@
 [BlackElo "1530"]
 [ECO "A70"]
 [Opening "Benoni: Classical, 7...Bg7"]
+[TimeControl "40/7200:20/3600:3600"]
 [EventDate "1984.??.??"]
 [PlyCount "101"]
 
@@ -23,15 +24,16 @@ Qe6 39. f3 h4 40. Rh5 Ra4 41. Rxh4 Rxc4 42. Qa1 Rd4 43. Qa7 Qe7 44. Qa2 f5
 
 [Event "Brittany Open"]
 [Site "Dinard FRA"]
-[Date "1984.??.??"]
+[Date "1984.03.25"]
 [Round "2"]
 [White "Raoult, Bruno"]
-[Black "Salauen, M."]
+[Black "Salaün, M."]
 [Result "0-1"]
 [WhiteElo "1530"]
 [BlackElo "1530"]
 [ECO "B08"]
 [Opening "Pirc: Classical, 5.Be2 O-O 6.Be3"]
+[TimeControl "40/7200:20/3600:3600"]
 [EventDate "1984.??.??"]
 [PlyCount "100"]
 
@@ -46,7 +48,7 @@ Bxb2 39. Na2 Kg7 40. g4 Kg6 41. Kg3 Be5+ 42. Kg2 a3 43. Nc1 Bb2 44. Na2 Kf6
 
 [Event "Brittany Open"]
 [Site "Dinard FRA"]
-[Date "1984.??.??"]
+[Date "1984.03.25"]
 [Round "3"]
 [White "Gissinger"]
 [Black "Raoult, Bruno"]
@@ -55,6 +57,7 @@ Bxb2 39. Na2 Kg7 40. g4 Kg6 41. Kg3 Be5+ 42. Kg2 a3 43. Nc1 Bb2 44. Na2 Kf6
 [BlackElo "1530"]
 [ECO "C50"]
 [Opening "Giuoco Piano: 4.O-O Nf6"]
+[TimeControl "40/7200:20/3600:3600"]
 [EventDate "1984.??.??"]
 [PlyCount "40"]
 
@@ -65,7 +68,7 @@ Qxe5 Nxe5 0-1
 
 [Event "Brittany Open"]
 [Site "Dinard FRA"]
-[Date "1984.??.??"]
+[Date "1984.03.26"]
 [Round "4"]
 [White "Ellien"]
 [Black "Raoult, Bruno"]
@@ -74,6 +77,7 @@ Qxe5 Nxe5 0-1
 [BlackElo "1530"]
 [ECO "C50"]
 [Opening "Giuoco Pianissimo: Italian Four Knights, 5...d6"]
+[TimeControl "40/7200:20/3600:3600"]
 [EventDate "1984.??.??"]
 [PlyCount "82"]
 
@@ -87,7 +91,7 @@ cxb4 axb4 34. axb4 Qa2+ 35. Ke1 Qb1+ 36. Kf2 Qxe4 37. Qe8+ Kg7 38. Qd7 c3
 
 [Event "Brittany Open"]
 [Site "Dinard FRA"]
-[Date "1984.??.??"]
+[Date "1984.03.27"]
 [Round "5"]
 [White "Raoult, Bruno"]
 [Black "Cervini"]
@@ -95,6 +99,7 @@ cxb4 axb4 34. axb4 Qa2+ 35. Ke1 Qb1+ 36. Kf2 Qxe4 37. Qe8+ Kg7 38. Qd7 c3
 [WhiteElo "1530"]
 [ECO "C62"]
 [Opening "Spanish: Old Steinitz, 4.d4 exd4 5.Nxd4"]
+[TimeControl "40/7200:20/3600:3600"]
 [EventDate "1984.??.??"]
 [PlyCount "64"]
 
@@ -107,7 +112,7 @@ Rxa1 26. Bxa1 Rxa1 27. a4 b6 28. Rxh7 Kd7 29. h4 Rh1 30. Rh8 Rh3 31. Rg8 f4
 
 [Event "Brittany Open"]
 [Site "Dinard FRA"]
-[Date "1984.??.??"]
+[Date "1984.03.27"]
 [Round "6"]
 [White "Raoult, Bruno"]
 [Black "Damour"]
@@ -115,6 +120,7 @@ Rxa1 26. Bxa1 Rxa1 27. a4 b6 28. Rxh7 Kd7 29. h4 Rh1 30. Rh8 Rh3 31. Rg8 f4
 [WhiteElo "1530"]
 [ECO "B09"]
 [Opening "Pirc: Austrian, 5...O-O 6.e5"]
+[TimeControl "40/7200:20/3600:3600"]
 [EventDate "1984.??.??"]
 [PlyCount "71"]
 
@@ -127,7 +133,7 @@ Be5 33. Rc6 Bxf4 34. Bxc4+ Nxc4 35. Rxc4 Bxg3+ 36. Kg2 1/2-1/2
 
 [Event "Brittany Open"]
 [Site "Dinard FRA"]
-[Date "1984.??.??"]
+[Date "1984.03.28"]
 [Round "7"]
 [White "Marchiset"]
 [Black "Raoult, Bruno"]
@@ -136,6 +142,7 @@ Be5 33. Rc6 Bxf4 34. Bxc4+ Nxc4 35. Rxc4 Bxg3+ 36. Kg2 1/2-1/2
 [BlackElo "1530"]
 [ECO "C80"]
 [Opening "Spanish: Open, 8.Nxe5"]
+[TimeControl "40/7200:20/3600:3600"]
 [EventDate "1984.??.??"]
 [PlyCount "57"]
 
