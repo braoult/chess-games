@@ -35,7 +35,7 @@ DEBUGINFO=-g
 # Mac OS X users might need to add -D__unix__ to CFLAGS
 # and use CC=cc or CC=gcc
 
-OPTIMISE=-O3
+OPTIMISE=-O3 -D__linux__
 
 CFLAGS+=-c -pedantic -Wall -Wshadow -Wformat -Wpointer-arith \
 	-Wstrict-prototypes -Wmissing-prototypes -Wwrite-strings \
